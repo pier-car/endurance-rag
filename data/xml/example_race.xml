@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnduranceResults>
+  <Event name="CEI2* Monterosso" date="2026-05-10" distance_km="120" country="ITA">
+    <Result rank="1" status="Completed">
+      <Athlete>Rossi Maria</Athlete>
+      <Horse>Desert Wind</Horse>
+      <AvgSpeed unit="km/h">17.8</AvgSpeed>
+      <FinalHR unit="bpm">52</FinalHR>
+    </Result>
+    <Result rank="0" status="Eliminated" reason="Metabolic">
+      <Athlete>Bianchi Luca</Athlete>
+      <Horse>Sahara Gold</Horse>
+      <AvgSpeed unit="km/h">17.1</AvgSpeed>
+      <FinalHR unit="bpm">68</FinalHR>
+    </Result>
+    <Result rank="0" status="Eliminated" reason="Lameness">
+      <Athlete>Verdi Sara</Athlete>
+      <Horse>Nero Fumo</Horse>
+      <AvgSpeed unit="km/h">16.5</AvgSpeed>
+      <FinalHR unit="bpm">58</FinalHR>
+    </Result>
+  </Event>
+</EnduranceResults>

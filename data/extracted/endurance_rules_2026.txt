@@ -1,0 +1,3417 @@
+ENDURANCE RULES
+12th Edition, effective 1 January 2024
+Including updates 1 January 2026
+Printed in Switzerland
+Copyright © 2026 Fédération Equestre Internationale
+Reproduction strictly reserved
+Fédération Equestre Internationale
+HM King Hussein I Building T: +41 21 310 47 47
+Chemin de la Joliette 8 F: +41 21 310 47 60
+1006 Lausanne Email: info@fei.org
+Switzerland Website: www.fei.org
+2026 ENDURANCE RULES PREAMBLE
+TABLE OF CONTENTS
+PREAMBLE .................................................................................................. 3
+FEI CODE OF CONDUCT FOR THE WELFARE OF THE HORSE ......................... 4
+CHAPTER I: GENERAL ................................................................................. 7
+800. Rules and regulations applicable to international-level Endurance Events ... 7
+801. Horse welfare ..................................................................................... 7
+CHAPTER II: THE COMPETITION ............................................................... 10
+802. Categories of FEI Endurance Events .................................................... 10
+803. Star level of Events ........................................................................... 12
+804. Competition Schedule ....................................................................... 12
+805. Minimum weights ............................................................................. 13
+806. One Horse per Athlete in Competition .................................................. 14
+807. Method of starting ............................................................................ 14
+808. Time-keeping and record-keeping ....................................................... 14
+809. Classification .................................................................................... 15
+810. Removal from Competition ................................................................. 16
+811. Pre-ride briefing ............................................................................... 17
+812. Veterinary control and treatment ........................................................ 17
+CHAPTER III: THE COURSE/FIELD OF PLAY .............................................. 18
+813. Field of Play ..................................................................................... 18
+814. Loops .............................................................................................. 19
+815. Phases ............................................................................................ 20
+816. Vet Gates ........................................................................................ 20
+817. Plan of the course ............................................................................. 24
+818. Course design, terrain, and safety ...................................................... 25
+819. Marking the course ........................................................................... 26
+820. Order of the course ........................................................................... 26
+821. Postponement/cancellation of Events .................................................. 26
+822. Assistance on course & fair play ......................................................... 27
+823. Dress code ....................................................................................... 28
+824. Dyes and skin creams ....................................................................... 29
+825. Tack and equipment .......................................................................... 29
+CHAPTER IV: ELIGIBILITY ........................................................................ 31
+826. Minimum age requirements for Athletes and Trainers ............................ 31
+827. Minimum age requirements for Horses ................................................ 31
+828. Registration ..................................................................................... 31
+829. Pregnant mares ............................................................................... 32
+CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS .............. 33
+830. Overview ......................................................................................... 33
+831. Successful completion ....................................................................... 33
+832. Novice qualifications ......................................................................... 33
+833. CEI qualifications .............................................................................. 34
+834. Competing at CEI Events once qualified ............................................... 35
+835. Validity of CEI star level qualification ................................................... 35
+836. Championships ................................................................................. 35
+837. Consequences for repeated FTQ and/or DSQ designations with average
+speeds exceeding 21 km/hour ............................................................ 36
+838. Calculating average speed and speed restrictions ................................. 37
+839. Mandatory Out of Competition Periods ................................................. 38
+1
+2026 ENDURANCE RULES PREAMBLE
+840. Veterinary referral centre and required reporting .................................. 40
+841. Approved records of results ............................................................... 40
+842. Transitional provisions (“Intentionally Omitted”) ................................... 40
+CHAPTER VI: INVITATIONS AND ENTRIES ................................................ 41
+843. Invitations ....................................................................................... 41
+844. Entries ............................................................................................ 42
+845. Declaration of starters ....................................................................... 44
+846. Substitutions .................................................................................... 44
+847. Maximum number of entries .............................................................. 44
+CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS................................. 45
+848. Appointment of Officials..................................................................... 45
+849. Rotation of Officials ........................................................................... 45
+850. Duties of Officials.............................................................................. 45
+851. Officials' per diems and expenses ....................................................... 46
+852. Technical Delegate ............................................................................ 46
+853. Ground Jury ..................................................................................... 47
+854. Veterinary Commission ...................................................................... 48
+855. Chief Steward .................................................................................. 48
+856. Independent Governance Advisors ...................................................... 48
+CHAPTER VIII: AWARDS AND PRIZE-GIVING CEREMONIES ..................... 50
+857. Prize money and awards .................................................................... 50
+858. Rankings (“Intentionally Omitted”) ..................................................... 50
+859. Prize-giving ceremonies ..................................................................... 50
+860. Badges of honour ............................................................................. 50
+861. Elite Athlete Status ........................................................................... 50
+862. Best Condition Award ........................................................................ 52
+CHAPTER IX: DISCIPLINARY .................................................................... 53
+863. Procedure ........................................................................................ 53
+864. Athlete and Trainer penalty points ...................................................... 53
+865. Warning cards .................................................................................. 55
+866. Suspensions ..................................................................................... 55
+867. Protests ........................................................................................... 55
+ANNEX 1: DEFINITIONS ........................................................................... 56
+ANNEX 2: FEI GUIDELINES FOR BEST CONDITION AWARD ...................... 59
+ANNEX 3: ELIMINATION CODES ............................................................... 61
+ANNEX 4: FEI WORLD ENDURANCE RANKINGS (“INTENTIONALLY
+OMITTED”) ............................................................................... 63
+ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS, CONTROL OF
+MEDICATION ............................................................................ 64
+ANNEX 6: OFFICIALS REQUIRED FOR EVENTS .......................................... 74
+ANNEX 7: EXAMINATION AFTER THIRD (OR SUBSEQUENT) FTQ-GA ......... 79
+ANNEX 8: DIAGRAMS. ............................................................................... 81
+ANNEX 9: THE ENDURANCE AWARDS ........................................................ 82
+2
+2026 ENDURANCE RULES PREAMBLE
+PREAMBLE
+These Endurance Rules (including the Annexes, which form an integral part of these
+Endurance Rules) come into effect on 1 January 2026. The provisions in these Endurance
+Rules supersede all prior Endurance Rules issued by the FEI and apply to all internationallevel Endurance Events that take place on or after 1 January 2026.
+Horsemanship and Horse welfare are the core of endurance riding. Endurance is a test of
+the Athlete’s ability to manage the Horse safely over an Endurance course. It is designed
+to test the stamina and fitness of the Athlete and Horse against the track, distance, terrain,
+climate, and clock, without compromising the welfare of the Horse.
+A key tenet of the sport is successful completion of an Endurance course, including all of
+the Phases of the course and all of the mandatory veterinary inspections. The qualification
+system to compete in FEI Events is based on (and rewards) successful completions, and
+so it is designed to promote horsemanship at all levels of the sport.
+Defined terms used in these Endurance Rules (denoted by initial capital letters) have the
+meaning given to them in Annex 1, or (if not listed in Annex 1) have the meaning given to
+them in the FEI Statutes, FEI General Regulations, FEI Veterinary Regulations, or other
+applicable FEI Rules and Regulations. In addition, Annex 1 includes certain rules to be used
+in interpreting and applying these Endurance Rules. However, the most important rule is
+that these Endurance Rules are to be interpreted and applied in a manner that gives effect
+to the values and objectives set out in this Preamble and in accordance with the FEI General
+Regulations (i.e., not by reference to national or local laws, but rather as an independent
+and autonomous text).
+Tack and Equipment requirements have been removed from the Sport Rules. Please refer
+to the FEI Tack & Equipment Requirements document and the FEI Tack, Equipment and
+Dress Database or the FEI Tack App.
+3
+2026 ENDURANCE RULES FEI CODE OF CONDUCT FOR THE WELFARE OF THE HORSE
+FEI CODE OF CONDUCT FOR THE WELFARE OF THE HORSE
+The FEI requires all those involved in international equestrian sport to adhere to the FEI
+Code of Conduct and to acknowledge and accept that at all times the welfare of the Horse
+must be paramount. The welfare of the Horse must never be subordinated to competitive
+or commercial or other interests. The following points must be particularly adhered to:
+1. General Welfare:
+a) Good Horse management
+Stabling and feeding must be compatible with the best Horse management
+practices. Clean and good quality hay, feed and water must always be available.
+b) Training methods
+Horses must only undergo training that matches their physical capabilities and level
+of maturity for their respective disciplines. They must not be subjected to methods
+that are abusive or cause fear.
+c) Farriery and tack
+Foot care and shoeing must be of a high standard. Tack must be designed and fitted
+to avoid the risk of pain or injury.
+d) Transport
+During transportation, Horses must be fully protected against injuries and other
+health risks. Vehicles must be safe, well ventilated, maintained to a high standard,
+disinfected regularly, and driven by competent personnel. Competent handlers must
+always be available to manage the Horses.
+e) Transit
+All journeys must be planned carefully, and Horses allowed regular rest periods with
+access to food and water in line with current FEI guidelines.
+2. Fitness to compete:
+a) Fitness and competence
+Participation in Competition must be restricted to fit Horses and Athletes of proven
+competence. Horses must be allowed suitable rest periods between training and
+Competitions; additional rest periods should be allowed following travelling.
+b) Health status
+No Horse deemed unfit to compete may compete or continue to compete, Veterinary
+advice must be sought whenever there is any doubt.
+4
+2026 ENDURANCE RULES FEI CODE OF CONDUCT FOR THE WELFARE OF THE HORSE
+c) Doping and medication
+Any doping or illicit use of medication constitutes a serious welfare issue and will
+not be tolerated. After any Veterinary treatment, sufficient time must be allowed
+for full recovery before Competition.
+d) Surgical procedures
+Any surgical procedures that threaten a Horse’s welfare or the safety of other Horses
+and/or Athletes must not be allowed.
+e) Pregnant/recently foaled mares
+Mares may not compete when more than four months pregnant or with foal at foot.
+f) Misuse of aids
+Abuse of a Horse using natural riding aids or artificial aids (e.g., whips, spurs, etc.)
+will not be tolerated.
+3. Events must not prejudice Horse welfare:
+a) Competition areas
+Horses must be trained and compete on suitable and safe surfaces. All obstacles
+and Competition conditions must be designed with the safety of the Horse in mind.
+b) Ground surfaces
+All ground surfaces on which Horses walk, train and/or compete must be designed
+and maintained to reduce factors that could lead to injury.
+c) Extreme weather
+Competitions must not take place in extreme weather conditions that may
+compromise Horse welfare or safety. Provision must be made for cooling conditions
+and cooling equipment for Horses after competing.
+d) Stabling at Events
+Stables must be safe, hygienic, comfortable, well ventilated and of sufficient size
+for the type and disposition of the Horse. Washing-down areas and water must
+always be available.
+4. Humane treatment of Horses:
+a) Veterinary treatment
+Veterinary expertise must always be available at an Event. If a Horse is injured or
+exhausted during a Competition, the Athlete must stop competing and a Veterinary
+evaluation must be performed.
+5
+2026 ENDURANCE RULES FEI CODE OF CONDUCT FOR THE WELFARE OF THE HORSE
+b) Referral centres
+Wherever necessary, Horses should be collected by ambulance and transported to
+the nearest relevant treatment centre for further assessment and therapy. Injured
+Horses must be given full supportive treatment before being transported.
+c) Competition injuries
+The incidence of injuries sustained in Competition must be monitored in accordance
+with the requirements of the relevant Discipline. Ground surface conditions,
+frequency of Competitions, and any other risk factors should be examined carefully
+to indicate ways to minimise injuries.
+d) Euthanasia
+If injuries are sufficiently severe a Horse may need to be euthanized on humane
+grounds by a Veterinarian as soon as possible, with the sole aim of minimising
+suffering.
+e) Retirement
+Horses must be treated sympathetically and humanely when they retire from
+Competition.
+5. Education:
+The FEI urges all those involved in equestrian sport to attain the highest possible
+levels of education in areas of expertise relevant to the care and management of
+the Competition Horse.
+This Code of Conduct for the welfare of the Horse may be modified from time to time and
+the views of all are welcomed. Particular attention will be paid to new research findings.
+The FEI encourages further funding and support for welfare studies.
+6
+2026 ENDURANCE RULES CHAPTER I: GENERAL
+CHAPTER I: GENERAL
+800. RULES AND REGULATIONS APPLICABLE TO INTERNATIONAL-LEVEL
+ENDURANCE EVENTS
+800.1 All international-level Endurance events, including CEIs, CEIOs, and
+Championships (Events), are governed by and must be organised in accordance
+with the following rules (each as amended from time to time): these Endurance
+Rules, the FEI Statutes, FEI General Regulations, FEI Veterinary Regulations, FEI
+Code of Conduct for the welfare of the Horse, FEI Equine Anti-Doping and
+Controlled Medication Regulations, FEI Anti-Doping Rules for Human Athletes,
+and any other rules, policies or documents issued by the FEI from time to time
+that apply according to their terms to international-level Endurance Events
+(collectively, the FEI Rules and Regulations).
+800.2 By registering with the FEI, submitting an entry for an Event, and/or participating
+in any capacity in an Event, Athletes, Trainers, Owners, Crew Members, Support
+Personnel, teams, Chefs d'Equipe, National Federations, and other persons
+participating in the Event are deemed to have undertaken to comply with the FEI
+Rules and Regulations, not only during the Event itself but also in the course of
+preparing for the Event, and will be liable for the consequences set out in the FEI
+Rules and Regulations in the event of any breach.
+800.3 In addition to complying with the FEI Rules and Regulations, Endurance Events
+held as part of Regional Games (and participants taking part in those Events)
+must comply with the requirements laid down by the relevant IOC-affiliated
+Regional Games Association.
+800.4 Without prejudice to the generality of Article 800.2, these Endurance Rules
+recognise in particular two distinct roles associated with the preparation and
+participation of Horses in Events:
+800.4.1 The Trainer is the person who is responsible for preparing the Horse
+both physically and mentally for competition (which includes
+determining the appropriate exercise programme, nutrition, and
+veterinary care for the Horse).
+800.4.2 The Athlete (who may also be the Trainer) is the person who rides
+the Horse in a Competition.
+800.5 It is the personal and non-delegable responsibility of each person participating
+in any capacity in an Event, including each Athlete and each Trainer, to familiarise
+themselves with all of the requirements of the FEI Rules and Regulations,
+including any amendments that may be made from time to time. Each Athlete
+and each Trainer must also ensure that each of their Support Personnel (including
+Crew Members) and any other person from whom the Athlete obtains advice or
+support familiarises themselves with such requirements. Ignorance of those
+requirements will not be a defence in the event of any breach.
+801. HORSE WELFARE
+801.1 Horse welfare is the first priority in Endurance: everything possible must be done
+to protect Horse health, safety and welfare at all times. This guiding principle is
+the most important responsibility of all persons participating in Events, including
+Athletes, Trainers, Owners, Crew Members, Support Personnel, teams, Chefs
+7
+2026 ENDURANCE RULES CHAPTER I: GENERAL
+d'Equipe, and Officials. Anyone participating in any capacity in any Event is
+required to comply strictly with both the letter and spirit of Article 801 and the
+FEI Code of Conduct for the welfare of the Horse, including without limitation in
+preparation for the Event (by implementing good training practices), during the
+Event (by exercising good horsemanship and safely managing the Horse over the
+course), and following the Event (by ensuring the Horse receives appropriate rest
+from Competition in accordance with these Endurance Rules), and by at all times
+ensuring proper care for the Horse.
+801.2 In addition to Article 801.1:
+801.2.1 The Athlete and the Trainer must have knowledge of the efficient and
+safe use of the Horse, and must take care at all times of both human
+and equine safety.
+801.2.2 The Athlete is responsible for exercising good horsemanship and safely
+managing the condition of their Horse over the course, taking
+account of the climate, terrain, ground surfaces, and other
+conditions of the course, without compromising the welfare of their
+Horse.
+801.2.3 The Athlete and Trainer may not enter or keep a Horse in a
+Competition if the Horse is suffering from an illness or injury or is
+receiving medication that would adversely affect or enhance its
+ability to compete.
+801.2.4 By entering the Competition, the Owner of the Horse consents to
+veterinary treatment that, in the opinion of the Treating
+Veterinarian(s), is required to ensure the welfare of the Horse, and
+to the transport of the Horse to the designated referral facility for
+further assessment, care, or monitoring, should that be deemed
+necessary. If the Horse then leaves the venue without agreement of
+the President of the Veterinary Commission, President of the
+Treating Veterinary Commission, and Foreign Veterinary Delegate
+removal of Competition consequences will apply (Articles 801.3.2
+and 810.1).
+801.3 The FEI has zero tolerance for any cruelty towards or Abuse of a Horse:
+801.3.1 Failure to comply with Article 801 and/or the FEI Code of Conduct for
+the welfare of the Horse may be considered Horse Abuse.
+801.3.2 Any act or omission at an Event that amounts, in the opinion of the
+Ground Jury, to cruelty towards or Abuse of a Horse shall result in
+a Yellow Warning Card and Disqualification and may also be subject
+to the additional sanctions set out in the FEI General Regulations.
+801.3.3 Any cruelty towards or Abuse of a Horse that takes place away from
+an Event will be subject to the sanctions set out in the FEI General
+Regulations.
+801.4 Reporting requirements:
+801.4.1 Any person who witnesses Horse Abuse must report it to the FEI in
+accordance with the FEI General Regulations. Such reports must
+8
+2026 ENDURANCE RULES CHAPTER I: GENERAL
+whenever possible include the signatures and addresses of the
+persons who witnessed the abuse.
+801.4.2 Any Horse Abuse must be reported without delay, but there is no time
+limit for reporting any such abuse. If the abuse occurs during an
+Event, the report must be made without delay to (i) the Ground Jury
+and/or the Secretary of the OC, and (ii) FEI Headquarters.
+801.4.3 Any cruelty towards or Abuse of a Horse that takes place away from
+an Event must be reported to FEI Headquarters.
+801.4.4 A failure to report cruelty towards or Abuse of a Horse is itself subject
+to sanction as a breach of the FEI Rules and Regulations.
+9
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+CHAPTER II: THE COMPETITION
+802. CATEGORIES OF FEI ENDURANCE EVENTS
+802.1 International-level Endurance Events are set out in the FEI Calendar and are
+divided into:
+802.1.1 Concours de Raid d’Endurance International (CEI);
+802.1.2 Concours de Raid d’Endurance International Officiel (CEIO);
+802.1.3 Championships (and test events for those Championships) and
+Games; and
+802.1.4 Combined National/FEI events (CEN/CEI).
+802.2 CEIs:
+802.2.1 CEIs have only an official individual classification. Unlike CEIOs, they
+do not have an official team classification. An OC may at its
+discretion permit Athletes to compete at a CEI in a team of three to
+five Athletes, not necessarily of the same nationality (details to be
+indicated in the approved Competition Schedule), but it will not be
+considered an Official Team Competition. Each member of the team
+will be considered an individual Athlete for official classification
+purposes. The number of teams that may be accepted is at the
+discretion of the OC.
+802.2.2 CEIs may be held in conjunction with wider national or FEI-approved
+series or programmes, subject to the approval of the FEI, in
+consultation with the FEI Endurance Technical Committee.
+802.3 CEIOs:
+802.3.1 CEIOs have an official individual classification and an official team
+classification.
+802.3.2 Each nation may enter only one team in the team Competition. A
+minimum of three teams is necessary for the team Competition to
+be considered an Official Team Competition. Each team must have
+a minimum of three Combinations and a maximum of five
+Combinations.
+802.4 Championships and Games:
+802.4.1 Championships (and Games) have an official individual classification
+and an official team classification. Article 802.3.2 also applies to
+Official Team Competitions at Championships (and Games).
+802.4.2 Championships include:
+(a) 1* Championships of a minimum of 100 km and a maximum
+of 119km in one day.
+(b) 2* Young Horse Championships with a minimum of 120 km
+and a maximum of 130 km in one day;
+10
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+(c) 2* Junior and Young Rider Championships of a minimum of
+120 km and maximum of 130 km in one day;
+(d) 2* Senior Championships of a minimum of 120 km and
+maximum of 139 km in one day; and
+(e) 3* Senior Championships of 160 km in one day.
+802.4.3 Championships at the Senior or Junior/Young Rider level may be
+organised on a regional, continental or world level, or as Games.
+Further details are set out in the FEI General Regulations.
+802.5 Test event for Championships:
+802.5.1 To ensure the smooth running of a Championship, the FEI Endurance
+Technical Committee will require (for 3* Championships) and may
+require (for all other Championships) the organiser of a
+Championship to host a test event around 12 months prior to the
+Championship (to ensure the test event takes place around the
+same time of year and with similar weather conditions as the
+Championship), which test event must have:
+(a) the same (or similar) distance, course, and panel of Officials
+as the Championship; and
+(b) the same provider for timing, data handling, and heart rate
+monitoring.
+802.5.2 The FEI Endurance Technical Committee will decide whether or not the
+test event meets the above criteria. There shall be no appeal against
+that decision.
+802.5.3 Any changes to the arrangements for the Championship under Article
+802.5.1 made after the test event takes place are subject to the
+approval of the FEI Endurance Technical Committee and FEI
+Endurance Department, and may also be subject to the approval of
+FEI Headquarters.
+802.5.4 If the OC does not organise a test event, or organises a test event that
+does not comply with the above requirements or the requirements
+set out in the applicable host agreement, the FEI may withdraw the
+allocation of the Championship from the OC.
+802.6 Combined National and FEI events:
+802.6.1 At the request of the National Federation concerned, the FEI may
+approve an FEI Event being combined with a National Event. If
+approved, CEI Combinations must be given priority over nationallevel Combinations for entries to such combined events.
+802.6.2 The national and FEI Competitions may start at the same time where
+so requested by the OC, subject to the approval of the Technical
+Delegate and the President of the Ground Jury, subject to the
+maximum number of starters permitted under Article 847, and
+provided that the welfare of the Horses and the safety of the
+Athletes will not be compromised.
+11
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+802.6.3 At any combined National and FEI event, national-level Combinations
+may not provide any form of assistance (in terms of pacing or
+otherwise) to FEI-level Combinations that might provide the FEIlevel Combination with any unfair advantage. Breach of this Article
+will result in Disqualification of both Combinations.
+803. STAR LEVEL OF EVENTS
+803.1 CEIs, CEIOs and Championships are divided into three star levels (3* being the
+highest level):
+803.1.1 1*: Competitions between 100-119 km in one day.
+803.1.2 2*: Competitions between 120-139 km in one day, or between 70-89
+km per day over two days with a minimum of two loops per day.
+803.1.2.1 A CEI2* will be categorised as a CIM provided that it meets all of the
+following criteria:
+- The distance is between 120 – 126km;
+- The prize money is less than CHF 20,000 (including the
+value of prizes in kind);
+- The number of entries is below 100.
+Penalties can be imposed where an OC/NF runs an Event as a CIM if
+it later emerges that the above referenced criteria were not complied
+with (for example if the prize money limit was exceeded).
+2* Championships are not considered as CIMs regardless of the
+distance or the prize money.
+803.1.3 3*: Competitions between 140-160 km in one day, or 90-100 km per
+day over two days, or 70-80 km per day over three days or more.
+803.2 Unless specified otherwise, the requirements that apply to CEI star levels apply
+to CEIOs of the same star level.
+803.3 The FEI will determine, in consultation with the FEI Endurance Technical
+Committee, the OC and relevant National Federations, what CEI star level
+requirements apply to any Event not covered under Article 803.1.
+803.4 The FEI may create special categories of events for emerging programmes in
+developing nations or regions or for the purposes of research into potential
+changes to these Endurance Rules. The FEI may apply such CEI star level
+requirements to those events (including for Officials and eligibility to participate)
+as it considers appropriate regardless of the length of the course at the event.
+In such cases, the FEI will request ongoing input from National Federations and
+Technical Committees.
+804. COMPETITION SCHEDULE
+804.1 Competition Schedules must be approved by the FEI in accordance with the FEI
+General Regulations. The FEI will publish the Competition Schedule once
+approved.
+12
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+804.2 The Competition Schedule must include (at a minimum): (i) the category of the
+Event, (ii) closing date for entries, (iii) entry fees, (iv) minimum weight
+requirements, (v) the total length of the course, and the length and number of
+Loops on the course, (vi) outline of the course (including any changes in altitude),
+(vii) number and location of crew points and horse drinking water points, (viii)
+speed restrictions (if applicable), (ix) time limits (in total and for each Phase, as
+applicable), (x) place and time of the start, (xi) rules for starting, (xii) method
+used to mark the course, (xiii) procedures at Vet Gates, (xiv) Hold Times, (xv)
+method of classification, and (xvi) prizes.
+804.3 The Competition Schedule should also set out administrative information relevant
+to participants (e.g., transport facilities, accommodation for Athletes and Crew
+Members, stabling, forage, etc).
+805. MINIMUM WEIGHTS
+805.1 Athletes must comply with the following minimum weight requirements, which
+include all riding equipment except for the bridle:
+Event Minimum weight
+Young Rider/Junior
+Young Rider/Junior Competitions
+60 kg
+and Championships
+Senior
+CEI 1* and CEI 2* / CEIO 1*
+70 kg
+and CEIO 2*
+CEI 3* / CEIO3* 75 kg
+Championships 75 kg
+805.2 If Juniors or Young Riders participate in Competitions for Seniors, they must
+comply with the minimum weight requirements applicable to Seniors for such
+Competitions.
+805.3 Compliance with minimum weight requirements:
+805.3.1 OCs must provide a reliable weighing machine with recalibration
+capability at the Event.
+805.3.2 The Athlete must maintain the minimum riding weight at all times
+during the Competition while completing Loops of the course
+(including while riding or leading the Horse on the course).
+805.3.3 Weight control must be carried out before the start of the Competition
+and (if so requested by an FEI Official) after the finish. Weight
+control inspections may also take place at random at any time
+during the Competition on request by an FEI Official.
+13
+
+[TABELLA]
+: Young Rider/Junior Competitions
+and Championships | : 60 kg
+: CEI 1* and CEI 2* / CEIO 1*
+and CEIO 2* | : 70 kg
+: CEI 3* / CEIO3* | : 75 kg
+: Championships | : 75 kg
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+805.3.4 Subject to Article 805.3.5 below, if an Athlete fails to comply with the
+minimum weight requirements or to submit to a weight control, the
+Athlete will be Disqualified for Underweight.
+805.3.5 If an Athlete is weighed during a Competition and is under the
+minimum weight by less than 1kg, the Athlete will be permitted to
+continue. If during the same Competition the Athlete is weighed
+again and is under the minimum weight (by any amount), the
+Combination will be Disqualified.
+806. ONE HORSE PER ATHLETE IN COMPETITION
+No Athlete may compete with more than one Horse in any Competition.
+807. METHOD OF STARTING
+807.1 Subject to Article 807.2, the first day of a Competition (for multi-day
+Competitions), or the day of a Competition (for single-day Competitions), must
+have a mass start. Horses may not cross the starting line before the signal is
+given.
+807.2 Staggered starts may be used for single day CEI 1* if there are at least 50
+starting Combinations, provided that the interval between the first and last
+Combination to start does not exceed one hour.
+807.3 In multi-day Competitions, a mass start or staggered start may be used on any
+day(s) subsequent to the first day. If a staggered start is used, Combinations
+must start the following day with the same time interval difference as was
+recorded at the finish of the day before. This will continue for a period of time
+(e.g., one hour) to be set at the discretion of the President of the Ground Jury
+and the Technical Delegate in consultation with the OC. Those remaining after
+that period will start together.
+807.4 If a Combination makes a false start (i.e., crosses the start line of the first Loop
+before the start signal is given or crosses the start line of subsequent Loops
+before the Hold Time has been completed), the Combination must return and recross the start line. Failure to do so will result in Disqualification. The
+Combination's start time will continue to run from when the original start signal
+was given.
+807.5 The start time of any Combination that does not present on time for the start of
+the Competition is recorded as if it had started on time. No Combination may
+start later than 15 minutes after the official start time of each Phase. Failure to
+comply with this provision will result in Disqualification.
+808. TIME-KEEPING AND RECORD-KEEPING
+808.1 Time is counted from the start signal until the Combination crosses the finish
+line. The OC must ensure that properly qualified persons (using synchronised
+time-keeping methods) accurately calculate and record the start and finish times
+and the speeds of each Combination for each Loop and Phase.
+808.2 Where Stewards and/or timekeepers are responsible for time-keeping, they must
+record the times of each Combination at the start and finish of each timed Loop
+and Phase.
+14
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+808.3 Each Combination will be issued a time card or acceptable and reliable alternative
+after each Phase.
+808.4 When the primary time-keeping systems used are electronic (which is
+recommended for CEI 3*, CEIOs, and Championships), OCs must arrange for
+alternative power sources and a back-up system for time-keeping and recordkeeping to be used if all power sources fail.
+809. CLASSIFICATION
+809.1 Horse Inspections: Only Combinations in which the Horse has passed all the
+Horse Inspections at all stages of the Competition are entitled to be included in
+the final classification.
+809.2 Individual classification: Regardless of the order and rules for starting, each
+Athlete must carry out the entire Competition as if competing alone against the
+clock, taking account of the track, distance, terrain, and climate, and without
+compromising the welfare of the Horse. The Combination that finishes the course
+in the shortest time, while respecting all course requirements (including any
+applicable speed restrictions and minimum weight requirements), and passing
+all Horse Inspections, medication controls, and any other protocols in place for
+the safety of the Horse and Athlete under the FEI Rules and Regulations, will be
+classified as the winner of the Competition.
+809.3 Team classification:
+809.3.1 If a National Federation starts three or more Combinations, the
+Combinations will be eligible for team and individual classification
+and placing/awards. The winner of the team competition is the team
+with the best time after adding the final classification of the three
+highest placed Combinations in the team. If there is a tie for best
+time, the winner will be the team whose third Combination has the
+best time.
+809.3.2 If a National Federation starts fewer than three Combinations, or fewer
+than three Combinations in a team are classified, that team may not
+be placed as a classified team, even if that leaves medal or award
+places vacant. The classified Combinations will be eligible only for
+individual classification and placing/awards.
+809.3.3 In the World Equestrian Games, the teams in the Endurance Event will
+be classified as set out in this Article 809.3.
+809.3.4 If any Combination whose result counted towards team classification
+is subsequently Disqualified, that Combination’s result will be
+removed from the team result and replaced with the result of the
+next applicable team member (if any). This will not affect the
+individual classification of the other Combinations in that team.
+809.4 Dead heat: When two or more Combinations start the Competition at the same
+time and finish with the same total elapsed riding time, the Ground Jury (assisted
+by the Stewards) must determine which Combination crossed the finish line first
+(whether based on plain sight or photo/video evidence) and that Combination
+will be classified ahead of the other Combination. Such determination must be
+based on the tip of the nose of the Horse that crosses the finish line first. There
+may not be any ties.
+15
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+809.5 Failure to Qualify, Disqualification, withdrawal and retirement:
+809.5.1 Failure to Qualify for the next Phase or for final classification occurs
+when a Combination is removed from the Competition for failure to
+pass a Horse Inspection, complete the full course as required,
+comply with applicable speed restrictions, and/or meet all time
+requirements for completion, or as a result of such other 'FTQ'
+designations as specified in Annex 3 (elimination codes).
+809.5.2 Disqualification occurs when a Combination is removed from a
+Competition and/or Event (or its results are subsequently
+disqualified after the Competition and/or Event) for a violation of
+these Endurance Rules or other FEI Rules and Regulations or the
+Competition Schedule.
+809.5.3 Withdrawal occurs when an Athlete withdraws their Horse from the
+Competition (without otherwise being removed from the
+Competition) at or prior to the First (Pre-Ride) Inspection.
+809.5.4 Retirement occurs when an Athlete decides (without otherwise being
+removed from the Competition) not to continue in the Competition
+after their Horse passes the First (Pre-Ride) Inspection, provided
+that this happens (i) before the Combination crosses the start line,
+or (ii) at the end of a Phase provided that the Combination has
+successfully completed that and any previous Phases and passes all
+Horse Inspections after each of those Phases, including any
+compulsory re-inspection or vet-requested re-inspection (the Horse
+must be considered fit to continue in the Competition at each of
+those inspections). Should an Athlete wish to retire their Horse at
+the end of a Phase, the Horse must be presented to the Vetting Area
+and pass all required Inspections. The maximum time a Horse has
+for Retirement after completing a Phase is its hold time plus 15
+minutes as per Article 807.5.
+810. REMOVAL FROM COMPETITION
+810.1 All Horses removed (voluntarily or otherwise) from Competition must be
+presented for Horse Inspection either to the FEI Veterinary Commission or the
+FEI Treatment Veterinary Panel immediately after removal, unless the President
+of the Veterinary Commission, President of the Treating Veterinary Commission,
+and Foreign Veterinary Delegate permit the Horse’s immediate transfer from the
+Field of Play to a pre-authorised treatment centre and the Horse’s veterinary
+records are updated accordingly. Failure to comply with this Article will result in
+the issue of a Yellow Warning Card to the Athlete and Trainer, Disqualification of
+the Combination for Horse Not Presented, imposition of a 60-day Mandatory Out
+of Competition Period for the Horse, and the penalty points set out in Article 864.
+810.2 A Combination that is Disqualified or designated as Failed to Qualify for any
+reason must leave the course immediately and may not continue along the
+course unless there is no viable alternative (which must be agreed by a member
+of the Ground Jury or, if not available, a Steward).
+16
+2026 ENDURANCE RULES CHAPTER II: THE COMPETITION
+811. PRE-RIDE BRIEFING
+811.1 For all CEIs, a pre-ride briefing must be conducted. Attendance is mandatory for
+all Athletes, Trainers, Chefs d’Equipe (if applicable), Officials, and Veterinarians.
+Attendance is recommended but not required for Crew Members.
+811.2 For Championships (and test events for those Championships), the pre-ride
+briefing must be conducted in English. There are no mandatory language
+requirements for the pre-ride briefing at CEIs.
+812. VETERINARY CONTROL AND TREATMENT
+Provisions on veterinary control and treatment during Competition are set out at
+Annex 5 and in the FEI Veterinary Regulations.
+17
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+CHAPTER III: THE COURSE/FIELD OF PLAY
+813. FIELD OF PLAY
+813.1 The Field of Play includes all areas where the Competition and related
+veterinary inspections take place, including the:
+813.1.1 Course (divided into Loops and Phases, as detailed in the Competition
+Schedule and the plan of the course, see Articles 814, 815, and 817820);
+813.1.2 Crew points (the designated areas with an identifiable ‘start’ and
+‘end’ point on the course where the Crew Members may assist their
+Combination, as specified in the Competition Schedule, see Article
+822.4.1);
+813.1.3 Vet Gate (the designated area where Combinations have to stop after
+each Loop for Horse Inspections and mandatory rest periods, which
+includes the following areas):
+(a) Recovery Area (the area after the end of each Loop where
+the Horses can recover before entering the Vetting Area for
+Horse Inspection, see Article 816);
+(b) Vetting Area (the area where Horses must undergo Horse
+Inspections after each Loop, see Article 816.3); and
+(c) Hold Area (the area where Horses can rest following Horse
+Inspections in the Vetting Area to complete the required
+Hold Time, see Articles 816.8 and 816.10).
+813.1.4 Training tracks/loops (the area where Horses train before the start
+of the Competition which must be prepared to eliminate any
+dangerous obstacles, must be well marked and must be monitored
+by the OC or Stewards).
+813.2 Access to the Field of Play:
+813.2.1 Access to the Field of Play may be restricted as set out in these
+Endurance Rules, the FEI Veterinary Regulations, other applicable
+FEI Rules and Regulations, the Competition Schedule, or as
+announced by the Ground Jury.
+813.2.2 Subject to Articles 816.4 (further restrictions for the Vetting Area) and
+813.2.1, the maximum number of Crew Members allowed on the
+Field of Play is four per Horse.
+813.3 Required identification on the Field of Play:
+813.3.1 At all times on the Field of Play, the Athlete and Horse in a
+Combination, and the Crew Members assisting that Combination,
+must be identified with the same number which must be clearly
+visible from a distance.
+813.3.2 Any person entering the Vetting Area must be clearly and officially
+identified by the OC (e.g., with a bib). Such person must wear the
+18
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+official identification at all times in the Vetting Area. Any person
+accompanying a Horse in the Vetting Area must wear the number
+that corresponds to that Horse.
+813.3.3 At Championships, Chefs d'Equipe, Team Veterinarians and Team
+Farriers must be clearly identified by the OC (e.g., with a bib). The
+Chefs d'Equipe and Team Veterinarians must wear the official
+identification at all times on the Field of Play.
+813.3.4 If a person fails to wear the required identification on the Field of Play,
+they may be removed from the Field of Play, in addition to any other
+applicable sanctions. If a person assists an Athlete and/or Horse
+without wearing proper identification or the correct corresponding
+number, such assistance will be considered prohibited assistance
+under Article 822.5.
+813.4 Classes of Combinations: The OC may distinguish different classes of
+Combinations on the Field of Play in a clear, visible and consistent manner, such
+as by using coloured bibs, arm bands, wrist bands, ribbons or a designated series
+of numbers.
+813.5 Horses must remain in clear view: At all times on the Field of Play, Horses
+must be capable of being clearly observed by FEI Veterinary Officials, Ground
+Jury and/or Stewards. No screens, equipment or barrier of any kind (including a
+human barrier) may be used to obscure any part of the Horse and/or prevent
+such observation. Horses may not be put in lorries or trailers to while they are
+competing. Failure to comply with this Article may result in Disqualification
+and/or a Yellow Warning Card.
+813.6 Removal from the Field of Play: If a Horse is removed from the Field of Play
+without following the proper procedures (including as set out in Article 810), the
+penalties in Article 864 will apply.
+814. LOOPS
+814.1 The total length of the course must be divided into a number of sections (Loops).
+814.2 Loop time is calculated from the time the Combination crosses the start line of a
+Loop until it reaches the end line of that Loop. Loop time does not include any
+recovery time or time spent in the Vetting Area.
+814.3 Loop speed is the average speed of the Combination over a Loop, calculated by
+dividing the length of the Loop by the time taken by the Combination to complete
+the Loop.
+814.4 Requirements for Loops:
+814.4.1 Subject to this Article 814.4 and Article 818.3, the OC will determine
+the length of each Loop and the number of Loops of the Competition,
+and must include this information in the Official Schedule.
+814.4.2 The length of each Loop may vary (i.e., Loops do not have to be of an
+equal length). Each Loop must be a minimum of 20 km and a
+maximum of 40 km in length.
+19
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+814.4.3 A Competition may be spread over one or more days, but each day of
+a multiday Competition must be divided into at least two Loops for
+a 2* multiday and three Loops for a 3* multiday Competition.
+814.4.4 Subject to Article 814.4.3, each Competition must have the following
+minimum number of Loops, depending on the total length of the
+course for that Competition:
+Minimum number of
+Length of course
+Loops
+100-119 km Three
+120-139 km Four
+140-160 km CEI 3* Five
+160 km 3* Championship Six
+814.4.5 Loops must not be specially designed or constructed for speeds that
+increase the risk of injury for the Horses. The Technical Delegate
+will make the final decision on this issue.
+814.4.6 The more demanding part(s) of the course should be earlier in the
+ride.
+814.4.7 The OC must ensure that there is access to water for the Horses on
+the course at least every 10 km.
+815. PHASES
+A Phase (or Phase time) includes the Combination's Loop time plus the Horse's
+recovery time after that Loop (see Article 816), except that the final Phase does
+not include any recovery time after the final Loop.
+816. VET GATES
+Recovery Area
+816.1 Following each Loop, there must be a safe area where the Horses can recover
+(including to lower their heart rates to the necessary parameters) before entering
+the Vetting Area for Horse Inspection.
+816.2 The time the Horse spends in the recovery area after crossing the end line of a
+Loop until it crosses the line into the Vetting Area to be presented for its Horse
+Inspection is referred to as its 'recovery time'. If the Horse's heart rate exceeds
+the maximum heart rate parameters, the initial time recorded on entering the
+Vetting Area is discarded. If the Horse is presented a second time for a heart
+rate re-inspection, the time is stopped again when the Horse crosses the line into
+the Vetting Area for the second time, and it is the second time that it crossed the
+line into the Vetting Area that is recorded as the recovery time.
+20
+
+[TABELLA]
+Length of course: 100-119 km | : Three
+Length of course: 120-139 km | : Four
+Length of course: 140-160 km CEI 3* | : Five
+Length of course: 160 km 3* Championship | : Six
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+Vetting Area
+816.3 Horses must undergo Horse Inspections after the end of each Loop. There must
+be a safe area with restricted access for this purpose that is separate from the
+recovery and hold areas (the Vetting Area).
+816.4 Access to the Vetting Area: Subject to any further restrictions set out in the
+Competition Schedule or specified by the Ground Jury, no more than two people
+(of which one is preferably the Athlete) may accompany a Horse in the Vetting
+Area. In addition, at Championships and CEIOs, the Team Veterinarian and/or
+Chef d’Equipe may access the Vetting Area during the Competition provided that
+they report their presence to the President of the Ground Jury and only if a Horse
+of their country is being presented. Any persons entering the Vetting Area must
+be properly identified in accordance with Article 813.3.
+816.5 Horse Inspections:
+816.5.1 A Horse Inspection will include an assessment of the Horse's fitness to
+continue in the Competition based on its heart rate recovery,
+metabolic status, gait and general condition. Save where specified
+otherwise in these Endurance Rules, all of the assessments of a
+Horse in a Horse Inspection must be performed by the same
+Veterinarian.
+816.5.2 The Organising Committee must indicate in the Draft Schedule that is
+submitted to the FEI whether a one or two-phase veterinary
+inspection will be performed at the Competition. The OC must
+confirm in the Schedule the number of Heart Rate Assessment
+Veterinarians that will be present should a two-phase veterinary
+inspection be chosen. Where in the opinion of the President of the
+Ground Jury, in consultation with the Veterinary Commission, the
+type of veterinary inspection selected by the Organising Committee
+is not appropriate or would cause logistical issues, or that the
+number of Heart Rate Assessment Veterinarians is not sufficient, the
+President of the Ground Jury can decide to change the type of
+veterinary inspection initially selected by the Organising Committee
+(from one phase to two-phase, or vice versa). Any such change
+must be made prior to the start of the Competition and must be
+communicated at the pre-ride briefing.
+(a) One phase veterinary inspection
+When the Horse enters the Vetting Area, it must be taken directly
+from the Vetting Area entrance to a designated Veterinarian in the
+vet lane (as instructed by the Officials) showing constant forward
+motion. The inspection decorum in the Vetting Area must be
+respected at all times (see paragraph 10 of Annex 5).
+(b) Two-phase veterinary inspection
+When the Horse enters the Vetting Area, it must be taken directly
+from the Vetting Area entrance (as instructed by the Officials) to the
+designated Veterinarian in the vet lane showing constant forward
+motion. Should all the vetting lanes be occupied, the Horse will be
+assessed by a designated Heart Rate Assessment Veterinarian (who
+must be a member of the Veterinary Commission). If there is a
+21
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+sufficient number of Heart Rate Assessment Veterinarians present,
+all Horses can present first to them and then proceed to the
+Veterinarian in the lane. The inspection decorum in the Vetting Area
+must be respected at all times (see paragraph 10 of Annex 5).
+(i) The Heart Rate Assessment Veterinarian will take the Horse’s
+Heart Rate according to the protocol outlined in Annex 5,
+paragraph 9.3 (Heart rate assessment procedure).
+(ii) If the Horse meets the maximum heart rate parameters, it will
+then pass to the designated Veterinarian in the vet lane as
+instructed by the Officials showing constant forward motion in
+order to complete a full Veterinary Inspection including the CRI.
+(iii) The designated Veterinarian in the vet lane will carry out a full
+Veterinary Inspection including a CRI with the HR
+measurement recorded by the Heart Rate Assessment
+Veterinarian. To clarify, only the first heart rate measurement
+taken by the Heart Rate Assessment Veterinarian is considered.
+(iv) For the final inspection, the Horse must proceed to the
+designated Veterinarian in the vet lane.
+816.5.3 Horses may also be required to undergo a re-inspection before leaving
+the Vet Gate for the next Loop (see paragraph 8 of Annex 5).
+816.6 Heart rate assessment: The first assessment to be performed as part of a
+Horse Inspection is the heart rate assessment. Further detail on the procedure
+for heart rate assessments is set out in paragraph 9.3 of Annex 5.
+816.6.1 For all Events (regardless of star level), Horses must be presented for
+a heart rate assessment with a heart rate of no more than:
+(a) 64 beats per minute (bpm) within 15 minutes of crossing
+the end line of each Loop (except the final Loop); and
+(b) 64 bpm within 20 minutes of crossing the finish line of the
+final Loop.
+816.6.2 The presentation time limits in Article 816.6.1 start to count down from
+the time the Combination crosses the end line of a Loop and stops
+when the Horse crosses the line into the Vetting Area to be
+presented for its Horse Inspection (if the Horse is required to
+undergo a heart rate re-inspection, the presentation time limit will
+continue to count down from when the Horse fails the first heart rate
+inspection). If the Veterinarians responsible for the Horse Inspection
+are occupied with several other Horses when a Combination
+presents at the Vetting Area, then the presentation time will be
+stopped for that Combination while it waits for inspection.
+816.6.3 If a Horse is removed from Competition before crossing the end line
+of a Loop, the Horse must be presented for a Horse Inspection
+immediately after such removal, in accordance with Article 810. The
+same maximum heart rate parameters apply in such circumstances.
+22
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+816.6.4 Subject to Article 816.6.6, if the Horse's heart rate is higher than the
+maximum heart rate parameters, the Horse may leave the Vetting
+Area and be presented a second time for a heart rate re-inspection
+provided that it is still within the permitted presentation time. If a
+Horse does not pass the second presentation, it will be designated
+as Failed to Qualify (subject to the confirmation procedure in
+paragraph 9.3(f)(iv) of Annex 5). A third presentation is not
+permitted.
+816.6.5 At the first Vet Gate and onwards, except for the Final Inspection, all
+Horses entering with more than 10 minutes recovery time must pass
+a compulsory re-inspection.
+816.6.6 At the Final Horse Inspection, the Horse may be presented only one
+time. Horses that do not meet the maximum heart rate parameters
+at this presentation will be designated as Failed to Qualify (subject
+to the confirmation procedure in paragraph 9.3(f)(i) of Annex 5).
+816.6.7 Failure to comply with the time limits for presentation of the Horse to
+the Vetting Area will result in Disqualification for Late Presentation.
+In such circumstances, the Horse must still be submitted to a Horse
+Inspection, and so an additional designation for Failure to Qualify
+for veterinary (or other) reasons may also apply in addition to the
+Disqualification.
+816.7 Metabolic, gait, and other assessments: Following the heart rate
+assessment, the Horse must immediately undergo all the other aspects of the
+Horse Inspection (including trotting to check soundness) with the same
+Veterinarian that performed the heart assessment. Further details concerning
+these assessments are set out in paragraph 9 of Annex 5.
+816.8 Hold Time: After each Loop (except for the final Loop) Horses must be given a
+mandatory rest period (Hold Time), which begins when the recovery time ends
+(see Article 816.2) and continues for the specified period. Hold Times are subject
+to the following requirements:
+816.8.1 There must be a Hold Time for the Horse at each Vet Gate (except the
+final Vet Gate after the finish) of at least thirty minutes for distances
+of 20km to 29km loops, and one minute per 1 km completed for
+30km Loops and above. (For example, following a 35 km Loop, there
+must be a minimum Hold Time of at least 35 minutes, following a
+21km Loop, there must be a minimum Hold Time of at least 30
+minutes).
+816.8.2 In CEI 2*, CEI 3* and Championships, there must be at least one Hold
+Time of a minimum of 50 minutes. In all other Events, there must
+be at least one Hold Time of a minimum of 40 minutes.
+816.8.3 The maximum scheduled Hold Time for a single hold in a one-day
+Event is 60 minutes.
+816.8.4 Where compulsory re-inspections are required, the Hold Time must be
+at least 40 minutes, and Horses are required to present for such reinspections no more than 15 minutes before the end of that Hold
+Time.
+23
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+816.8.5 The President of the Ground Jury, President of the Veterinary
+Commission and Foreign Veterinary Delegate must be consulted on
+Hold Times.
+816.9 Modifications to heart rate parameters, presentation times, and/or Hold
+Times to protect Horse and/or Athlete welfare:
+816.9.1 The Competition Schedule may set out maximum heart rates and
+presentation times that are lower/shorter than the stated
+maximums in Article 816.6.
+816.9.2 To safeguard the welfare of the Horses and the safety of the Athletes,
+the President of the Ground Jury (in consultation with and based on
+advice from the President of the Veterinary Commission, the Foreign
+Veterinary Delegate, Ground Jury members and the Technical
+Delegate) may prior to or during an Event:
+(a) reduce the maximum heart rate parameters;
+(b) shorten the presentation times at Vet Gates; and/or
+(c) increase the Hold Times.
+Modifications to the above parameters must be announced to all
+Athletes and/or Chefs d’Equipe before the start of the Loop
+concerned.
+816.9.3 Throughout the Competition, the President of the Ground Jury, the
+Veterinary Commission, the Foreign Veterinary Delegate, the
+Ground Jury members and the Technical Delegate must monitor the
+ride conditions (including any extreme weather conditions or other
+exceptional circumstances) and the number of Horses that Fail to
+Qualify at each inspection. It is their responsibility to make changes
+to the inspection parameters to protect the Horses.
+816.9.4 If parameters are reduced/shortened as set out above, then
+references to higher maximum parameters under these Endurance
+Rules will be replaced accordingly.
+Hold Area
+816.10 There must be a safe area where Horses can rest following the Horse Inspection
+to complete the required Hold Time (referred to as a hold area). The hold area
+and recovery area may be the same or separate areas.
+817. PLAN OF THE COURSE
+817.1 Completion of course design: The course of a Competition must be officially
+established at least seven days before the Competition begins, and must be
+approved by the Technical Delegate prior to handing over to the Ground Jury.
+817.2 Plans, maps and GPS: Once the course is finalised, and no later than the preride briefing, each Athlete must be given access to:
+817.2.1 a plan (or map) showing the track of the course, including the
+start/end of each Loop, permitted crewing and water points, Vet
+24
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+Gates, and any known hazards (for Championships, OCs must
+provide copies of such plans to each Athlete); and
+817.2.2 a map in a scale of at least 1:50’000 and GPS equipment or a digital
+alternative that performs the function of mapping, tracking and
+navigation if available.
+817.3 Course modification: After the course has been officially established, no
+changes may be made without the approval of the Technical Delegate and the
+President of the Ground Jury. The OC must notify such changes to Athletes
+and/or (if applicable) Chefs d'Equipe as soon as reasonably practicable.
+818. COURSE DESIGN, TERRAIN, AND SAFETY
+818.1 The OC, in consultation with the Technical Delegate, should assist in creating a
+technically challenging course across country (within the limits of the terrain and
+weather conditions) that will test the stamina and riding skills of the
+Combinations, without compromising the welfare of the Horses.
+818.2 The course should include technically challenging factors including in relation to
+footing, terrain, altitude, and direction. To accomplish this, the course should
+include naturally occurring or man-made features such as tracks, ditches, steep
+climbs, descents, and water crossings. To the extent possible, the technical
+challenges must be left in their natural state, but they must be reinforced if
+necessary to ensure that they remain in the same state throughout the
+Competition.
+818.3 The terrain of the course must comply with the following restrictions:
+818.3.1 The terrain on the course may be modified only where necessary for
+the safety of Athletes and welfare of Horses. The course must have
+a minimum of 25% of unmodified terrain.
+818.3.2 A maximum of 10% of the total course length may be made up of
+paved roads.
+818.3.3 The type of terrain and altitude differentials must be clearly set out in
+the Competition Schedule.
+818.4 The finish line at the final Loop must be long and wide enough to allow several
+Horses to finish safely without interference from each other, and there must be
+sufficient run-out to allow Combinations to come to a stop safely after crossing
+the finish line. The finish line must be located as close as possible to the Vet
+Gate.
+818.5 Competitions will be organised to allow Athletes to compete at their own pace,
+subject to any applicable speed restrictions, and subject further to adverse
+conditions and trail safety:
+818.5.1 If adverse conditions or other considerations such as extreme weather
+conditions arise that might compromise the ability of Combinations
+to complete a course safely, the President of the Ground Jury and
+the President of the Veterinary Commission, in consultation with the
+OC and the Foreign Veterinary Delegate, may require compulsory
+halts or establish a maximum time for a Loop/Phase and/or the
+closing times of Vet Gates, to ensure that Combinations do not fall
+25
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+too far behind the other Combinations and to ensure the safety and
+welfare of Horses and Athletes.
+818.5.2 In circumstances related to trail safety, depending on the given
+circumstances of a particular course, as well as the time of day, the
+OC, in consultation with the Technical Delegate, may require
+compulsory halts or establish sections of a course where controlled
+gaits of the Horse and/or speed restrictions apply.
+819. MARKING THE COURSE
+819.1 The course must be clearly, distinctly and consistently marked to indicate the
+correct direction and easy to see so that there is no doubt as to how to proceed
+on the course. In particular, a distance marker must be placed every 10 km, and
+the start and end of each Loop must be clearly and distinctly marked. The
+markings may be flags, ribbons, signs, lime, paint, etc.
+819.2 If the OC is aware of a possible short cut on the course, the OC must have a
+Steward in place at that location to ensure that the Combinations do not take
+that short cut.
+819.3 The course markings must be respected, and failure to do so may result in
+Disqualification.
+820. ORDER OF THE COURSE
+820.1 A Combination must complete the entire course in the correct order and direction
+as marked on the course plan/map. Subject to Article 820.2, if a Combination
+fails to do so, it will be Disqualified.
+820.2 If a Combination makes an error on the course, the Ground Jury may (if it
+considers it feasible to do so) allow that Combination to correct the error by
+returning to the place where the error started. If the Combination fails to do so,
+it will be Disqualified. If the Ground Jury considers that correcting an error on
+course is not feasible and/or in the best interests of the Horse, it may determine
+an alternative that will require the Combination to complete an equivalent
+distance over the same type of terrain, such distance to be made up within the
+same Loop, so that the Combination still passes through each Vet Gate in the
+correct order and within the relevant time limits. In such cases, the Combination
+will receive a certificate of completion and be designated as ‘Finished not
+Ranked’. The Athlete and Horse may not be considered for the Best Condition
+Award, and its performance may not count for individual or team classifications.
+821. POSTPONEMENT/CANCELLATION OF EVENTS
+821.1 An Event may be postponed and/or cancelled as set out in the FEI General
+Regulations. OCs are encouraged to anticipate the possible need to delay (by up
+to 30 hours), reschedule, and/or cancel an Event and evacuate the venue. For
+CEIOs and Championships, the OC should include reference to such potential in
+its Competition Schedule.
+821.2 A decision to postpone and/or cancel an Event must be notified as soon as
+reasonably practicable to the Athletes and/or (if applicable) Chefs d’Equipe, as
+well as the OC, time-keeping team, and all Event Officials, and in any event
+26
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+before the start of the Competition or (if the Competition has started) before the
+next Loop.
+822. ASSISTANCE ON COURSE & FAIR PLAY
+822.1 An Athlete may lead or follow their Horse on the course, but must be mounted
+to pass through the start line of any day and the end line of the day’s final Loop.
+Failure to comply with this provision will result in Disqualification.
+822.2 Once the Combination has started, no one other than the Athlete may lead or
+ride the Horse on the course. Failure to comply with this provision will result in
+Disqualification.
+822.3 A Combination that wilfully obstructs an overtaking Combination will be
+Disqualified. This is not intended to prevent a contest for placing, but rather is
+intended to apply where the slower Combination is being lapped or passed
+because (for example) it is travelling at a significantly slower pace or having
+equipment issues.
+822.4 Permitted assistance:
+822.4.1 The Competition Schedule must detail what assistance (crewing) may
+be given to Combinations during a Competition, and in particular
+where such assistance is allowed on the course and within Vet
+Gates. The designated areas on a course where crewing is permitted
+are called 'crew points'.
+822.4.2 There must be at least 5km between crew points. Crewing outside the
+designated crew points is prohibited and will result in
+Disqualification. However:
+(a) It remains the responsibility of the Athlete to manage their
+Horse according to the climate and conditions, and if a
+Horse needs urgent assistance to protect its welfare, the
+Athlete must stop their Horse to obtain such assistance. A
+failure to do so, or otherwise preventing the Horse from
+obtaining such assistance, may be considered as Horse
+Abuse. Misuse of this provision to gain an unfair advantage
+will result in Disqualification. A Horse that receives urgent
+assistance may be designated as Failed to Qualify for
+veterinary (or other) reasons.
+(b) A Combination may be assisted at any time if an Athlete
+falls or is otherwise separated from their Horse, or if the
+Horse loses a shoe. The Athlete must remount and/or
+continue in the Loop from the point at which the Athlete
+dismounted, left the course or required intervention. An
+Athlete that provides assistance to a fellow Athlete who has
+fallen or has been otherwise separated from their Horse will
+not Fail to Qualify for being Out of Time (FTQ-OT), should
+they pass their permitted time due to providing such
+assistance, provided that the President of the Ground Jury
+is satisfied that the sole reason for the Athlete exceeding
+the allocated time is due to the assistance given to another
+Athlete pursuant to this Article.
+27
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+822.4.3 There are also separate areas on the course at least every 10 km
+where drinking water must be available for Horses (see Article
+814.4.7), subject to Article 1026 of the FEI Veterinary Rules. It is
+advised that, if possible, large water troughs are strategically placed
+so that the Athlete has the opportunity to gather water using a
+personal bucket.
+822.5 Prohibited assistance: An Athlete or Trainer who receives or provides the
+following assistance will receive a Yellow Warning Card, and in the event of a
+breach of Articles 822.5.5, 822.5.6 and/or 822.5.7 will also be Disqualified:
+822.5.1 being followed, preceded or accompanied on any part of the course by
+any person on foot, on bicycle, or in a motorised vehicle;
+822.5.2 being followed, preceded or accompanied by any motorised vehicle on
+any access track adjacent to the course;
+822.5.3 encouraging a Horse during the trot in the Vetting Area (except that
+the person trotting the Horse may use limited verbal
+encouragement);
+822.5.4 cutting wire fences or altering a part of an enclosure on or within the
+course so as to clear a way, or cutting down trees or eliminating
+challenges or altering technical aspects of the course;
+822.5.5 providing or accepting any assistance on any part of the course not
+specifically designated for such assistance;
+822.5.6 a person on the course (other than the Athlete) encouraging the Horse
+by any means whatsoever; or
+822.5.7 accepting any intervention by a person not authorised to assist the
+Combination, whether solicited or not, with the object of
+advantaging the Athlete or their Horse.
+823. DRESS CODE
+823.1 Any person who mounts a Horse at an Event must wear:
+823.1.1 protective Headgear that is securely fastened and that is of a
+recognised equestrian/endurance standard; and
+823.1.2 safe riding footwear with smooth soles and heels of 12 mm or more,
+or alternatively caged/boxed stirrups or equestrian safety stirrups.
+823.2 At all Events, participants (including those covered in this Article 823) must wear
+clean and tidy attire that is appropriate and not detrimental to the image of the
+discipline of Endurance. In addition:
+823.2.1 Athletes must wear appropriate team or individual riding attire
+(including a shirt or polo shirt with a collar) while on the Field of Play
+and during the First (Pre-Ride) Inspection, opening and closing
+ceremonies, Best Condition Award, and prize-giving ceremonies.
+823.2.2 Team officials and Crew Members must wear appropriate team or
+individual team attire while on the Field of Play and during the First
+28
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+(Pre-Ride) Inspection, opening and closing ceremonies, Best
+Condition Award, and prize-giving ceremonies.
+823.2.3 FEI Officials must wear appropriate working attire (no shorts or
+sandals) at all times during the Event when performing their duties,
+including on the Field of Play. For the First (Pre-Ride) Inspection,
+opening and closing ceremonies, Best Condition Award, and prizegiving ceremonies, FEI Officials must wear a jacket (where
+appropriate considering the weather) and (men only) a tie.
+823.2.4 Shorts are not permitted in the Vetting Area or during opening and
+closing ceremonies, the Best Condition Award, and/or prize-giving
+ceremonies. For safety reasons sandals are not permitted anywhere
+on the Field of Play. Depending on weather conditions and at the
+discretion of the OC and Officials, knee-length dress shorts may be
+allowed.
+823.3 The FEI General Regulations set out the rules in relation to permitted
+branding/advertising on clothing.
+823.4 The President of the Ground Jury and/or the Chief Steward may require a person
+who is in breach of the dress code to change attire and (if that person fails to do
+so) may require that person to leave (or be removed from) the Field of Play.
+824. DYES AND SKIN CREAMS
+Dyes (including henna) may not be used on the Horse at any time on the Field
+of Play as it may obstruct the veterinary inspection and identification of the
+Horse. Barrier cream or other topical skin cream may be used on the Horse,
+provided that it is removed before presentation for Horse Inspections or at the
+request of any Veterinarian or Official anywhere on the Field of Play. Failure to
+comply with this provision will result in Disqualification.
+825. TACK AND EQUIPMENT
+Tack and Equipment requirements have been removed from the Sport Rules.
+Please refer to the FEI Tack & Equipment Requirements document and the FEI
+Tack, Equipment and Dress Database or the FEI Tack App.
+825.1 Tack condition: Horse tack must be in a safe condition and correctly fitted to
+avoid the risk of pain or injury to the Horse. Officials may require any ill-fitting
+tack/equipment to be removed or altered. The use of any ill-fitting equipment
+that risks causing (or causes) pain or injury to the Horse may be considered as
+Horse Abuse (see also the FEI Veterinary Regulations).
+825.1.1 Any evidence of soreness, lacerations and/or wounds in the mouth,
+must be recorded on the Vet Card. If participation or continuing in
+the Competition is likely to aggravate any such soreness, lacerations
+or wounds or in any way endangers (or risks endangering) the
+welfare of the Horse, the Horse will not be allowed to continue and
+will be designated 'Failed to Qualify – Minor Injury' (FTQ-MI) (see
+Annex 5, 9.8).
+825.2 Prohibited tack/equipment: In the event of a breach regarding prohibited
+tack/equipment, the Combination will be Disqualified.
+29
+2026 ENDURANCE RULES CHAPTER III: THE COURSE/FIELD OF PLAY
+825.3 Mobile phones and GPS: The use of mobile phones and GPS devices is permitted.
+All other forms of communication devices must be approved by the Ground Jury
+prior to the Competition.
+825.4 Failure to comply: An Official may inspect a Combination's tack/equipment on the
+Field of Play at any time. If an Official determines at or prior to the First (Pre-Ride)
+Inspection or prior to or at the start of the Competition that a Combination's
+tack/equipment is in breach of the FEI Tack & Equipment Requirements document,
+the Official may request that such tack/equipment be altered or removed. Failure
+to comply with the Official's instructions will result in Disqualification.
+30
+2026 ENDURANCE RULES CHAPTER IV: ELIGIBILITY
+CHAPTER IV: ELIGIBILITY
+826. MINIMUM AGE REQUIREMENTS FOR ATHLETES AND TRAINERS
+826.1 A person may participate as an Athlete in an Endurance Event from 1 January in
+the year when this person reaches the age of 14.
+826.2 To be registered with the FEI as the Trainer of a Horse, the Trainer must be 18
+years old or older.
+827. MINIMUM AGE REQUIREMENTS FOR HORSES
+827.1 The minimum age requirements for Horses are set out below:
+Level of Event Required minimum age
+Novice 5 years old
+CEI 1* 6 years old
+CEI 2* 7 years old
+CEI 3* 8 years old
+Horse must be at least one year older
+than the minimum age requirement
+CEIOs and Championships that applies to a CEI of the same star
+(other than Young Horse
+level as the Championship.
+Championships, see Article
+827.2) (For example, to participate in a 2*
+Championship, the Horse must be 8
+years old or older)
+827.2 Horses must be eight years old to participate in the Young Horse Championships.
+(For the avoidance of doubt, eight years is a required age, not a minimum age).
+827.3 A Horse is deemed to have its birthday on 1 January in the year that it was born.
+827.4 The age of the Horse is determined as of the date of the Event for which eligibility
+to participate is sought, and must be confirmed either through reliable
+registrations or written veterinary opinion, which may be recorded in the Horse's
+Passport.
+828. REGISTRATION
+828.1 To participate in Competitions, all Athletes, Horses, and Trainers must be
+registered with the FEI and the applicable registration fees must have been paid
+to the FEI, in accordance with the FEI General Regulations.
+828.2 When Endurance Horses are registered with the FEI, the name of the Trainer for
+that Horse must also be registered and a registration fee paid (except that if the
+registered Trainer is also a registered Athlete, no additional Trainer registration
+fee will be charged).
+31
+
+[TABELLA]
+: Novice | : 5 years old
+: CEI 1* | : 6 years old
+: CEI 2* | : 7 years old
+: CEI 3* | : 8 years old
+: CEIOs and Championships
+(other than Young Horse
+Championships, see Article
+827.2) | : Horse must be at least one year older
+than the minimum age requirement
+that applies to a CEI of the same star
+level as the Championship.
+(For example, to participate in a 2*
+Championship, the Horse must be 8
+years old or older)
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER IV: ELIGIBILITY
+828.3 Any change in the Trainer of the Horse must be notified to the FEI without delay.
+If the registered Trainer of a Horse changes, the Horse may not participate in
+any Competition for a period of 14 days, starting from the date of notification of
+the change to the FEI.
+Transitional Provision – 828.3
+Any change in the Trainer of the Horse as of 1 January 2024 will result in the
+Horse not being able to participate in any Competition for a period of 14 days as
+per these Endurance Rules. For the avoidance of doubt, all Trainer changes that
+happen prior to 01 January 2024 will result in the Horse not being able to
+participate in any Competition for a period of 30 days as per the 2023 FEI
+Endurance Rules.
+829. PREGNANT MARES
+A mare in advanced pregnancy, meaning over 120 days, or with foal at foot, may
+not be entered (or participate) in any Event.
+32
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+830. OVERVIEW
+In order to promote good horsemanship and protect Horse welfare, the
+qualification system to compete in FEI Events at different star levels is based on
+(and rewards) successful completions of Competitions, which will be tracked for
+each Athlete and Horse. Similarly, repeated 'Failure to Qualify' and/or
+Disqualification, in particular where such designations are combined with high
+average speeds over the course, will be penalised to ensure that the Athlete
+learns to ride safely over a course at lower speed (see Article 837).
+831. SUCCESSFUL COMPLETION
+A 'successful completion' of a Competition means that the Combination
+finished all of the Phases of the course in accordance with the applicable course
+requirements (maximum allotted time, correct order without short cuts, no
+prohibited assistance, etc), passed all of the Horse Inspections, complied with
+minimum weight requirements and any applicable speed restrictions, did not
+withdraw or retire, was not designated as 'Failed to Qualify', was not Disqualified
+during or after the Competition, and complied with any applicable Mandatory Out
+of Competition Period(s).
+832. NOVICE QUALIFICATIONS
+832.1 Subject to Article 832.4, all Horses and Athletes must have successfully
+completed their novice qualifications to be eligible to advance through the CEI
+star level qualification process.
+832.2 Novice qualifications must be administered by each National Federation. The
+novice qualification eligibility form must be filled in on the FEI online platform
+prior to the relevant National Federation making the first FEI entry for the Athlete
+or Horse.
+832.3 Novice qualification procedure: Horses and Athletes must have successfully
+completed (not necessarily as a Combination) two novice rides of 40-79 km (in
+one day) and two novice rides of 80-100 km each restricted to a speed of no
+more than 16 km/hour (calculated in accordance with Article 838.2). The
+required 80-100 km rides may be completed either as (i) two single-day events,
+or (ii) one single-day event and one multi-day event (for the multi-day event,
+40-50km must be completed per day for two consecutive days at the same
+Competition). All qualifying novice rides must be completed within a three-year
+period.
+832.4 Exemptions from novice qualification requirements:
+832.4.1 A National Federation may ask the FEI to exempt an Athlete or Horse
+from the novice qualifications if they meet the conditions in Articles
+832.4.2 (Horse) or 832.4.3 (Athlete).
+832.4.2 The Horse will be granted an exemption from the novice qualifications
+if (i) it is eight years or older at the time of the request, and (ii) in
+the three years prior to the request it has successfully completed a
+cumulative minimum of 480 km in Competitions over distances of
+33
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+80 km, including at least one competition of 80km or more at the
+age of eight or older.
+832.4.3 The Athlete will be granted an exemption from the novice qualifications
+if the Athlete has successfully completed a cumulative minimum of
+480 km in Competitions over 80 km or more in the three years prior
+to the request.
+833. CEI QUALIFICATIONS
+833.1 The CEI star qualification level of an Athlete or Horse must be determined
+according to the FEI's records and database, and attested to by each National
+Federation.
+833.2 Once an Athlete or Horse has qualified for a CEI star level, they/it may be referred
+to as an Athlete or Horse (as applicable) of that star level.
+833.3 The qualification procedure for CEI star levels is set out below:
+833.3.1 CEI 1*: Athletes and Horses are qualified to compete at the CEI 1*
+level once they have successfully completed all the novice
+qualifications, but no earlier than six months (for Athletes) and one
+year (for Horses) with a margin of five days after the successful
+completion of their first novice ride. Athletes and Horses must
+successfully complete a CEI 1* within three years of qualifying for
+the CEI 1* level. If they fail to do so, they will lose their CEI 1*
+qualification and must update their novice qualifications to re-qualify
+for the CEI 1* level.
+833.3.1.1 All 6-year-old Horses entering in their first CEI1* must complete it
+with a speed restricted to no more than 16 km/hour (calculated in
+accordance with Article 838.2). This Horse will be restricted at 16
+km/hour until it has successfully completed a CEI1* or until the
+Horse is older than 6 years old.
+Transitional Provision – 833.3.1.1
+Article 833.3.1.1 does not apply retroactively. All 6-year-old Horses who have
+already qualified at the CEI1* level without a restricted speed will retain their
+qualification
+833.3.2 CEI 2*: Athletes and Horses are qualified to compete at the CEI 2*
+level once they have successfully completed two CEI 1* within a
+three-year period.
+833.3.3 CEI 3*: Athletes and Horses may only compete at the CEI 3* level if
+they are qualified as a Combination. To so qualify, they must have
+successfully completed (i) two CEI 2*, and (ii) one CEI1* or one CEI
+2* together as a Combination (except for Athletes with Elite Status
+who are exempt from the Combination ride requirement, see Article
+861), all within a three-year period. (The Combination ride may be
+one of the two qualifying successful rides or may be a separate third
+ride).
+34
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+834. COMPETING AT CEI EVENTS ONCE QUALIFIED
+834.1 Once qualified for the CEI 1* and CEI 2* levels, there are no further requirements
+to compete at those levels within the given validity period (Article 835).
+834.2 If the Athlete and Horse are both individually qualified for the CEI 3* level, but
+in other Combinations (i.e., with other partners), they have to successfully
+complete one CEI1* or CEI 2* as a Combination to compete together in a CEI
+3*. (Further to Article 833.3.3, Athletes with Elite Status are exempt from this
+Combination requirement).
+835. VALIDITY OF CEI STAR LEVEL QUALIFICATION
+835.1 Each CEI star level qualification achieved will be valid:
+835.1.1 for Athletes, for five years; and
+835.1.2 for Horses, for three years.
+835.2 The validity period will begin to run from the day that a qualification is granted
+or renewed and (subject to Article 833.3.1) expire at midnight GMT on the last
+day of the applicable time period.
+835.3 Each time an Athlete or Horse successfully completes a Competition at the level
+for which the Athlete/the Horse has qualified or the level below, the
+Athlete's/Horse's qualification at their/its current level will be automatically
+revalidated by the FEI (for that level which has been completed) for the period
+set out in Article 835.1.
+835.4 If an Athlete or a Horse fails to successfully complete a Competition at the level
+for which Athlete/the Horse has qualified within the period set out in Article
+835.1, the Athlete/Horse will automatically drop down one level of qualification.
+835.5 If an Athlete or Horse fails to revalidate a qualification within the period set out
+in Article 835.1 (and so drops down a level), to regain the expired qualification
+the Athlete or Horse must successfully complete one Competition at the lower
+level.
+836. CHAMPIONSHIPS
+836.1 To qualify for Championships, Horses and Athletes must have:
+836.1.1 graduated through the qualifying processes for novice and CEI star
+qualifications, up to and including the star level of the Championship
+35
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+(for example, for a 2* Championship, the Athlete and Horse must
+each be qualified for the CEI 2* level); and
+836.1.2 successfully completed the relevant additional number of CEIs (or
+CEIOs of the same star level) specified in the table below. Of those
+additional rides:
+(a) one or two (as specified in the table) must have been
+undertaken by the relevant Athlete and Horse as a
+Combination; and
+(b) that ride (or one of those two rides) must have (i) been a
+single-day event over the same distance as the
+Championship (or greater distance), and (ii) taken place
+prior to, but no more than two years prior to, the deadline
+for Nominated Entries for the Championship or 60 days
+prior to the Championship (whichever comes first).
+Additional CEIs to be successfully
+Championship
+completed and Combination requirements
+Two CEI 1* or higher, including one in
+1* Championships
+Combination
+2* Young Horse
+One CEI 2* in Combination
+Championships
+Two CEI 2* or higher, including two in
+2* Young Rider/Junior
+Combination, only one in Combination for 2*
+Championships
+Bronze Elite Junior/Young Riders or higher
+Two CEI 2* or higher, including two in
+2* Senior
+Combination, only one in Combination for 2*
+Championships
+Bronze Elite Senior Riders or higher
+3* Senior
+Two CEI 3*, including one in Combination
+Championships
+837. CONSEQUENCES FOR REPEATED FTQ AND/OR DSQ DESIGNATIONS
+WITH AVERAGE SPEEDS EXCEEDING 21 KM/HOUR
+837.1 If an Athlete or Horse (in any Combination) is designated as Failed to Qualify
+(FTQ) or Disqualified (DSQ) at a number of Competitions within a one-year
+rolling period, and the average speed of the Athlete or Horse over the course at
+each of those Competitions exceeded 21 km/hour, the consequences (and
+conditions for lifting the speed restriction) set out in the table below will apply to
+the Athlete and Horse in question. It is the responsibility of the Athlete to know
+if a speed restriction applies to them:
+36
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+Number of FTQ
+and/or DSQ in a
+one-year rolling
+Consequences Conditions for speed
+period with
+restriction to be lifted
+average speed
+> 21 km/hour
+Successful completion of
+Two (but only if Speed restricted to no
+one Competition (at any
+at consecutive more than 18 km/hour at
+CEI star level) within the
+Competitions) future Competitions.
+speed restriction.
+Successful completion of
+Speed restricted to no
+two Competitions (at any
+Three more than 18 km/hour at
+CEI star level) within the
+future Competitions.
+speed restriction.
+Successful completion of
+Speed restricted to no
+four Competitions (at any
+Four more than 18 km/hour at
+CEI star level) within the
+future Competitions.
+speed restriction.
+Successful completion of
+Speed restricted to no
+five Competitions (at any
+Five more than 18 km/hour at
+CEI star level) within the
+future Competitions.
+speed restriction.
+837.2 Average speed over a course and speed restrictions are calculated as set out in
+Article 838.
+837.3 If the Athlete or Horse satisfies the relevant conditions for lifting the speed
+restriction, then their/its number of FTQ/DSQ designations will be reset to zero
+for the purposes of this Article 837.
+Transitional Provision – 837
+If as of 1 January 2024 an Athlete or a Horse has an existing speed restriction
+(due to repeated FTQ and/or DSQ with an average speed exceeding 20 km/hour),
+the Athlete must complete the required rides as set out in Article 837.1 in order
+to lift the speed restriction. The consequences under Article 837 will apply for
+repeated FTQ and/or DSQ with average speeds exceeding 21 km/hour, and will
+be imposed based only on results obtained from 1 January 2024 onwards.
+838. CALCULATING AVERAGE SPEED AND SPEED RESTRICTIONS
+838.1 The average speed of a Combination over a course (including for the purposes
+of determining if 21 km/hour, further to Article 837.1, or 20 km/hour further to
+Article 839.2.1, has been exceeded) is the average speed over all completed
+Loops (including any Loop that ends in a 'Failed to Qualify' designation). If a Loop
+is not completed, then the speed of that partial Loop does not count towards the
+average. If a Horse fails to complete the first Loop, no average speed will be
+recorded.
+37
+
+[TABELLA]
+: Two (but only if
+at consecutive
+Competitions) | Consequences: Speed restricted to no
+more than 18 km/hour at
+future Competitions. | Conditions for speed
+restriction to be lifted: Successful completion of
+one Competition (at any
+CEI star level) within the
+speed restriction.
+: Three | Consequences: Speed restricted to no
+more than 18 km/hour at
+future Competitions. | Conditions for speed
+restriction to be lifted: Successful completion of
+two Competitions (at any
+CEI star level) within the
+speed restriction.
+: Four | Consequences: Speed restricted to no
+more than 18 km/hour at
+future Competitions. | Conditions for speed
+restriction to be lifted: Successful completion of
+four Competitions (at any
+CEI star level) within the
+speed restriction.
+: Five | Consequences: Speed restricted to no
+more than 18 km/hour at
+future Competitions. | Conditions for speed
+restriction to be lifted: Successful completion of
+five Competitions (at any
+CEI star level) within the
+speed restriction.
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+838.2 To comply with the speed restriction of 16 km/hour (in Article 832.3) or of 18
+km/hour (in Article 837.1), the average speed of a Combination in each Loop
+must be no more than the applicable speed restriction. It is not enough for the
+Combination to keep its average speed over all of the Loops combined under the
+speed restriction. If the average speed of a Combination exceeds the applicable
+speed restriction on any Loop, the Combination will be classified as Failed to
+Qualify-Speed (FTQ-SP). If the Horse fails a Horse Inspection after such Loop,
+the Combination will also be classified according to any other elimination codes
+(see Annex 3) that apply for veterinary reasons.
+839. MANDATORY OUT OF COMPETITION PERIODS
+839.1 Standard MOOCP:
+After competing in a National Event or FEI Event, a Horse may not compete in
+any National Event(s) or FEI Event(s) for the following Mandatory Out of
+Competition Period:
+Distance completed Mandatory Out of Competition Period
+From crossing the start line
+5 days
+up to 54 km
+Over 54 km to 106 km 12 days
+Over 106 km to 126 km 19 days
+Over 126 km to 146 km 26 days
+Over 146 km 33 days
+839.2 Additional MOOCP:
+839.2.1 In addition to the period set out in Article 839.1, the following
+Mandatory Out of Competition Periods and other consequences will
+apply where the following circumstances occur at an FEI Event or
+National Event (where more than one of the circumstances below
+apply, the additional Mandatory Out of Competition Periods will be
+cumulative):
+Additional Mandatory Out of
+Incident Competition Period and other
+consequences
+Horses that exceed an average of
+20 km/hour over completed Loops
+7 days
+of a course (calculated in
+accordance with Article 838)
+Second FTQ-ME (Failure to Qualify –
+14 days
+metabolic) in a rolling year
+38
+
+[TABELLA]
+: From crossing the start line
+up to 54 km | : 5 days
+: Over 54 km to 106 km | : 12 days
+: Over 106 km to 126 km | : 19 days
+: Over 126 km to 146 km | : 26 days
+: Over 146 km | : 33 days
+[/TABELLA]
+
+[TABELLA]
+Incident: Horses that exceed an average of
+20 km/hour over completed Loops
+of a course (calculated in
+accordance with Article 838) | : 7 days
+Incident: Second FTQ-ME (Failure to Qualify –
+metabolic) in a rolling year | : 14 days
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+Third (or subsequent) FTQ-ME
+60 days (subject to extension under
+(Failure to Qualify – metabolic) in a
+Article 839.2.3)
+rolling year
+a) 180-day Mandatory Out of
+Competition Period; and
+b) Horse must undergo a specific
+Third (or subsequent) FTQ-GA
+examination protocol before being
+(Failure to Qualify – irregular gait)
+in a rolling year eligible to compete in any FEI
+Events (the protocol for this
+examination is set out in Annex
+7).
+180 days (subject to extension under
+Serious Injury (musculoskeletal)
+Article 839.2.3)
+60 days (subject to extension under
+Serious Injury (metabolic)
+Article 839.2.3)
+Disqualification for Hyposensitivity 4 weeks (28 days)
+Failure by the Person Responsible to
+provide a copy of the veterinary
+180 days (and Horse will not be
+report from a designated/approved
+permitted to compete until the
+referral centre to the FEI Veterinary
+veterinary report is provided)
+Department in accordance with
+Article 840
+Failure to present the Horse for
+Horse Inspection either to the FEI
+Veterinary Commission or the FEI
+60 days
+Treatment Panel immediately after
+removal from Competition in
+accordance with Article 810.1
+839.2.2 It is the responsibility of the President of the Veterinary Commission,
+President of the Treating Veterinary Commission, and Foreign
+Veterinary Delegate to review the treated Horses at the end of the
+Competition on a case by case basis, and to specify if those Horses
+must (i) have an additional Mandatory Out of Competition Period
+under Article 839.2.1, or (ii) receive authorised treatment, without
+requiring such additional Mandatory Out of Competition Period.
+839.2.3 The Mandatory Out of Competition Period for Serious Injuries or
+repeated FTQ-ME may be extended further at the discretion of the
+FEI Veterinary Department based on a diagnosis by a designated
+referral centre or other approved clinic (see Article 840).
+839.3 Consequences during MOOCP:
+839.3.1 For Article 839.1, the standard Mandatory Out of Competition Period
+starts to run from 00:01 GMT the day after the relevant ride finishes
+(the end of the ride is determined by the maximum ride time
+allowed), and finishes at midnight GMT on the last day of the
+39
+
+[TABELLA]
+Third (or subsequent) FTQ-ME
+(Failure to Qualify – metabolic) in a
+rolling year: Third (or subsequent) FTQ-GA
+(Failure to Qualify – irregular gait)
+in a rolling year | 60 days (subject to extension under
+Article 839.2.3): a) 180-day Mandatory Out of
+Competition Period; and
+b) Horse must undergo a specific
+examination protocol before being
+eligible to compete in any FEI
+Events (the protocol for this
+examination is set out in Annex
+7).
+Third (or subsequent) FTQ-ME
+(Failure to Qualify – metabolic) in a
+rolling year: Serious Injury (musculoskeletal) | 60 days (subject to extension under
+Article 839.2.3): 180 days (subject to extension under
+Article 839.2.3)
+Third (or subsequent) FTQ-ME
+(Failure to Qualify – metabolic) in a
+rolling year: Serious Injury (metabolic) | 60 days (subject to extension under
+Article 839.2.3): 60 days (subject to extension under
+Article 839.2.3)
+Third (or subsequent) FTQ-ME
+(Failure to Qualify – metabolic) in a
+rolling year: Disqualification for Hyposensitivity | 60 days (subject to extension under
+Article 839.2.3): 4 weeks (28 days)
+Third (or subsequent) FTQ-ME
+(Failure to Qualify – metabolic) in a
+rolling year: Failure by the Person Responsible to
+provide a copy of the veterinary
+report from a designated/approved
+referral centre to the FEI Veterinary
+Department in accordance with
+Article 840 | 60 days (subject to extension under
+Article 839.2.3): 180 days (and Horse will not be
+permitted to compete until the
+veterinary report is provided)
+Third (or subsequent) FTQ-ME
+(Failure to Qualify – metabolic) in a
+rolling year: Failure to present the Horse for
+Horse Inspection either to the FEI
+Veterinary Commission or the FEI
+Treatment Panel immediately after
+removal from Competition in
+accordance with Article 810.1 | 60 days (subject to extension under
+Article 839.2.3): 60 days
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER V: QUALIFYING FOR AND COMPETING IN FEI EVENTS
+Mandatory Out of Competition Period. For Article 839.2, any
+additional Mandatory Out of Competition Period starts to run from
+00:01 GMT the day after the standard Mandatory Out of Competition
+Period expires, and finishes at midnight GMT on the last day of the
+additional Mandatory Out of Competition Period. In any case, the
+published ride start time of the Horse’s next competition (national
+or international) must fall after the expiry of the applicable
+Mandatory Out of Competition Period.
+839.3.2 FEI-registered Horses may not compete in any National Events or FEI
+Events during any Mandatory Out of Competition Period. Failure to
+comply with this provision will result in the penalties set out in Article
+864.
+839.3.3 If a Horse participates in a National Event or FEI Event during any
+Mandatory Out of Competition Period, the Athlete who rode the
+Horse (and the Trainer of the Horse, if applicable) will receive an
+official notification from FEI Headquarters. The penalty points and
+suspension set out in Article 864 will take effect as of the date of
+the FEI notification. The results obtained by that Horse (and by any
+Athlete riding that Horse) in the National Event or FEI Event
+concerned (and in any subsequent National Events/FEI Events up to
+the date of notification) will be Disqualified.
+840. VETERINARY REFERRAL CENTRE AND REQUIRED REPORTING
+840.1 The President of the Veterinary Commission, President of the Treating Veterinary
+Commission, and Foreign Veterinary Delegate will refer a Horse to a referral
+centre (designated/approved at their discretion) if they consider that the Horse
+requires further assessment and continued veterinary care beyond the period of
+Competition.
+840.2 If a Horse is referred to a referral centre, the Person Responsible must provide
+the FEI with the veterinary report from that referral centre within 72 hours of the
+release of the Horse from that centre, or (in the event the Horse dies) within 72
+hours of the death of the Horse. This obligation is separate and in addition to the
+obligations set out in the FEI Veterinary Regulations.
+841. APPROVED RECORDS OF RESULTS
+Approved records must be provided for Athlete/Horse results for insertion into
+the FEI database/FEI passports as required. The National Federation is ultimately
+responsible for proof of results.
+842. TRANSITIONAL PROVISIONS (“INTENTIONALLY OMITTED”)
+40
+2026 ENDURANCE RULES CHAPTER VI: INVITATIONS AND ENTRIES
+CHAPTER VI: INVITATIONS AND ENTRIES
+843. INVITATIONS
+843.1 CEIs:
+843.1.1 The number of Athletes that may be accepted for a Competition will
+be stated in the Competition Schedule and the official invitation to
+National Federations.
+843.1.2 The number of Officials and Athletes (whether competing as
+individuals or as members of a team) to whom hospitality will be
+extended is at the discretion of the OC.
+843.2 CEIOs and Championships:
+The Competition Schedule and the official invitation sent to each National
+Federation participating in the Event must allow for each team to have seven
+Athletes and seven Horses (which includes up to two reserve
+Horses/Combinations), a non-riding Chef d’Equipe, and an FEI-registered
+Veterinarian as Team Veterinarian. Further details on teams are set out in the
+FEI General Regulations.
+For the avoidance of doubt, a National Federation may enter less than seven
+Athletes that are qualified with more than one Horse as a Combination.
+An OC of a Young Horses Championship may allow individual Athletes in addition
+to the team, subject to FEI approval.
+843.3 World Equestrian Games:
+843.3.1 The Competition Schedule and the official invitation sent to each
+National Federation participating in the World Equestrian Games
+must allow for each team to have four Athletes and four Horses, plus
+a reserve Combination, a non-riding Chef d’Equipe, and a Veterinary
+Surgeon as Team Veterinarian. Any reserve Combination at the
+World Equestrian Games may not compete if it is not in the starting
+team.
+843.3.2 National Federations that enter a team in the World Equestrian Games
+may not send other individual Athletes to compete in those Games.
+843.3.3 There is a maximum of two individual Athletes per National Federation.
+843.4 Crew Members:
+The OC must accept a minimum of two Crew Members per Horse at all Events.
+843.5 Expenses & privileges:
+843.5.1 The OC of World Equestrian Games must accept responsibility for
+meeting the living expenses of Athletes, Horses, Crew Members and
+team officials (Chefs d’Equipe and Veterinarians) from the day
+before the First (Pre-Ride) Inspection until the day after the end of
+the Championships. This must be published in the Competition
+Schedule and in the official invitation sent to National Federations.
+41
+2026 ENDURANCE RULES CHAPTER VI: INVITATIONS AND ENTRIES
+843.5.2 The OC of World and Continental Championships may accept
+responsibility for meeting the travelling and living expenses of
+Athletes, Horses, Crew Members and team Officials (Chefs d’Equipe
+and Veterinarians) from the day before the First (Pre-Ride)
+Inspection until the day after the end of the Championships. This
+must be published in the Competition Schedule.
+844. ENTRIES
+844.1 Number of entries:
+844.1.1 The number of Horses that may be entered for an Event must comply
+with the Competition Schedule.
+844.1.2 Subject to Articles 843 and 847, under no circumstances may the OC
+limit the number of entries of eligible Athletes or teams for an FEI
+Championship.
+844.2 National Federations:
+844.2.1 Only National Federations may enter Athletes and their respective
+Horses in an Event. National Federations may enter only Athletes
+and Horses who meet the qualification criteria set out in these
+Endurance Rules or other applicable FEI Rules and Regulations.
+844.2.2 The OC may not accept any entries other than those received from
+National Federations. The OC must accept any entries by National
+Federations from nations other than the nation where the Event will
+be staged (i.e., the OC must accept entries for foreign Athletes).
+844.2.3 A National Federation may not make Definite Entries for the same
+Athletes, Horses or Combinations for Events held on the same dates.
+If it does, the Athlete, Horse or Combination (as applicable) will be
+Disqualified from the Event in which it participates.
+844.3 Deadlines for Nominated and Definite Entries:
+844.3.1 For Championships and World Equestrians Games:
+(a) Nominated Entries and Definite Entries must be made in
+accordance with the FEI General Regulations. All reserve
+Horses must be on the Nominated Entries list.
+(b) Where a National Federation has made a Nominated Entry
+of a team and finds that it will be unable to send a team, it
+must immediately inform the OC.
+(c) After the Definite Entries have been sent in, substitutions
+of Horses and/or Athletes may only be made in exceptional
+circumstances and with the express permission of the OC
+(see Article 846). Substitutions can only be made with duly
+entered Athletes/Horses from the Nominated Entries list.
+844.3.2 For CEIs and CEIOs:
+(a) There are no Nominated Entries.
+42
+2026 ENDURANCE RULES CHAPTER VI: INVITATIONS AND ENTRIES
+(b) Definite Entries must reach the OC at the latest four days
+prior to the beginning of the Event. After the Definite
+Entries have been sent in, substitutions of Horses and/or
+Athletes may only be made in exceptional circumstances
+and with the express permission of the OC (see Article 846).
+844.4 Details to be included with entries:
+Entries for Athletes and Horses must include their names, Trainer, FEI
+registration numbers (FEI ID), and, where appropriate, qualifications.
+844.5 Reserve Horses:
+844.5.1 For CEIs, each Athlete may bring one reserve Horse to the
+Competition, subject to the ability of the OC to accommodate the
+Horse (this must be clearly indicated on the Competition Schedule).
+These reserve Horses must be duly entered in the Competition under
+the Athlete’s name, identification number and a second entry fee,
+to be determined by the OC, must be paid by the Athlete. The
+Athlete may trot up both of their Horses at the First (Pre-Ride)
+Inspection (provided that the Horses are duly entered in their
+name). If a Horse is entered by more than one Athlete for a
+Competition, it will only be required to undergo the First (Pre-Ride)
+Inspection once.
+844.5.2 For CEIOs and Championships, each National Federation may send
+Horses up to the maximum shown in the Competition Schedule from
+the list of Definite Entries, subject to the ability of the OC to
+accommodate them. The OC must allow each team up to two
+reserve Horses.
+844.5.3 Each Athlete, other Person Responsible, and Chef d'Equipe (if
+applicable) is responsible for arranging the proper supervision, care,
+and feeding of any reserve Horse(s) that are present at but not
+participating in the Event.
+844.6 Withdrawals and no shows:
+844.6.1 Subject to Article 809.5.3, an Athlete may withdraw any or all their
+Horses from a Competition, but the Athlete may not add a Horse not
+previously entered for that Competition without the approval of the
+OC and the Ground Jury.
+844.6.2 Teams or Athletes in the Definite Entries for an Event that fail to take
+part without valid excuse must be reported by the Foreign
+Judge/Technical Delegate to the FEI Secretary General, who may
+take action against them before the FEI Tribunal. Competing at
+another Event staged at the same time is not a valid excuse for
+failure to participate at an Event.
+844.6.3 Athletes must reimburse the OC for the financial loss incurred by the
+OC (i.e., stabling and hotel expenses) as a result of late withdrawal
+or no shows after the date of Definite Entries.
+43
+2026 ENDURANCE RULES CHAPTER VI: INVITATIONS AND ENTRIES
+845. DECLARATION OF STARTERS
+845.1 At CEIs, immediately following the First (Pre-Ride) Inspection, each Athlete must
+declare to the Ground Jury which Horse (entered in their name) the Athlete will
+ride in the Competition.
+845.2 At CEIOs and Championships, when there are multiple possibilities, the Chefs
+d’Equipe must declare in writing to the Secretariat of the OCs (i) the names of
+the Athletes definitely starting, and (ii) the names of the Horses partnered with
+those Athletes, chosen from the names included on the official entry forms. In
+the event that more than five Combinations are starting from a National
+Federation in a Young Horses Championship, the composition of the team
+(minimum three, maximum five), and an indication of the individuals must be
+made at the latest at the declaration of starters. Declaration of starters by the
+Chef d’Equipe or their representative will take place within one to three hours
+after the First (Pre-Ride) Inspection of the Horses, at the discretion of the
+President of the Ground Jury.
+846. SUBSTITUTIONS
+846.1 After the deadline for Definite Entries:
+846.1.1 substitution of Horses and/or Athletes may only be made with the
+permission of the National Federation and the OC, such consent not
+to be unreasonably withheld. All substituted Horses and/or Athletes
+must be correctly qualified for the Competition;
+846.1.2 the registered Trainer of a Horse taking part in the Competition may
+not be substituted. In the event of a change in registered Trainer,
+Article 828.3 applies.
+846.2 If an accident or illness of an Athlete or a Horse occurring between the declaration
+of starters and the start of the Competition makes it impossible for that Athlete
+or Horse to take part in the Competition, substitutions may be made up to two
+hours before the start of the Competition. The following conditions must be met:
+(i) a certificate of the condition from an officially recognised physician for the
+Athlete, or from a Veterinary surgeon/Team Veterinarian for the Horse, (ii) the
+substitution Athlete and/or Horse is correctly qualified for the Competition, and
+(iii) permission of the President of the Ground Jury.
+846.3 An Athlete and/or a Horse may be replaced only by another Athlete or Horse or
+by a Combination that has been duly entered in the Competition, and provided
+that the Horse has passed the First (Pre-Ride) Inspection.
+847. MAXIMUM NUMBER OF ENTRIES
+For each Event, there may be a maximum of 200 entries per Competition and a
+maximum of 400 entries per day, subject in each case to space at the venue and
+an appropriate ratio of Athletes to Officials (see Annex 6).
+44
+2026 ENDURANCE RULES CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS
+CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS
+848. APPOINTMENT OF OFFICIALS
+848.1 Criteria in respect of appointment, promotion and maintenance of status for all
+FEI Endurance Officials will be published regularly on the FEI website in
+accordance with the published education and standards criteria.
+848.2 The appointment and number of Officials for each Event is set out in Annex 6.
+For any combined National and FEI events, see Article 802.6.
+848.3 Except for the Foreign Veterinary Delegate and Foreign Judge, where two
+Officials have equivalent qualifications and experience, preference should be
+given to the Official of the country where the Event is staged.
+848.4 Where a Foreign Official is required for an Event, such Foreign Official may not
+be a national or resident of the country where the Event is staged, unless that
+person is resident in a different time zone to the time zone of the Event location
+or in a different province/state that is at least 500 kms/8 hrs by road from the
+location where the Event will take place.
+848.5 At Events other than CEIOs and Championships, at the request of the National
+Federation concerned the FEI may authorise a Judge sitting on the Ground Jury
+to carry out functions for both the National Event and FEI Event (which would
+otherwise be prohibited under the FEI General Regulations).
+849. ROTATION OF OFFICIALS
+849.1 For the purposes of this Article 849, a 'key Official' includes the President of the
+Ground Jury, the Foreign Judge, the Technical Delegate, the Chief Steward, and
+the President of the Veterinary Commission.
+849.1.1 The Foreign Veterinary Delegate is excluded from the above
+rule on the basis that the appointment/rotation of the Foreign
+Veterinary Delegate must be in accordance with Article 1119 of the FEI
+Veterinary Regulations.
+849.2 Where only one Event is held each year at a particular venue, a person may
+serve as a key Official in the same function at that Event no more than three
+times in any five-year rolling period.
+849.3 Where more than one Event is held each year at a particular venue, a person
+may serve as a key Official in the same function at that venue for no more than
+three Events per year.
+Transitional Provision – 849.2 and 849.3
+As of 1 January 2024, all Officials will be reset to zero rides counting towards
+their rotation.
+850. DUTIES OF OFFICIALS
+850.1 The FEI Officials' Code of Conduct is set out at as an appendix to the FEI General
+Regulations.
+45
+2026 ENDURANCE RULES CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS
+850.2 All FEI Endurance appointed Officials must be present and reachable throughout
+the Event according to their duties.
+851. OFFICIALS' PER DIEMS AND EXPENSES
+851.1 Officials are entitled to the following:
+851.1.1 Daily per diems are not mandatory at FEI Events. If any per diems are
+paid to Officials, they cannot exceed a maximum of CHF 500 per day
+(or equivalent local monetary value).
+851.1.2 The OC must confirm in writing to the Officials (in advance of the
+Official's acceptance of the appointment) the level of daily per diem
+that will be paid (if any) and the number of days that will be covered
+(including e.g., travel days, Competition days, and/or other days
+when the Officials are required to be present at the venue).
+851.1.3 The OC must advise whether such per diem is subject to withholding
+tax or similar within the country of the Event.
+851.1.4 The OC and Official must agree (in advance of the relevant Event) the
+basis upon which travel to and from the venue will be arranged or
+reimbursed. Travel arrangements must be such that Officials (i)
+arrive no later than the day before the First (Pre-Ride) Inspection (if
+it takes place in the morning) or the morning on the day of the First
+(Pre-Ride) Inspection (if it takes place in the afternoon), and (ii)
+have sufficient time to fully complete their duties on-site before they
+have to leave the Event venue. In CEI 3* and Championships, the
+Foreign Veterinary Delegate and President of the Ground Jury must
+be available at the Event Venue at least until the morning after the
+Event finishes (or, where the Competition takes place overnight, the
+specified Officials must be available at least until 12 hours after the
+ride has finished). The OC must arrange and reimburse
+accommodation and meals for all Officials approved and listed in the
+Competition Schedule at the relevant Event (accommodation
+arrangements must be made before the Official travels to the
+relevant Event).
+851.1.5 Payment of per diems and reimbursement of agreed expenses will only
+be made after the Event is completed and all results have been
+signed off by the President of the Ground Jury.
+851.2 Subject to Article 851.1, no other gifts or fees may be provided to Officials.
+851.3 Any per diem or reimbursement of expenses may be paid and arranged only by
+the OC, and not (for example) by any other person, organisation, sponsor, etc.
+852. TECHNICAL DELEGATE
+852.1 The Technical Delegate must approve the technical and administrative
+arrangements for the conduct of the Event, including (among other things) the
+correct entry procedures, examinations and inspections of Horses,
+accommodation (for Horses, Athletes and Crew Members), and stewarding for
+the Event.
+46
+2026 ENDURANCE RULES CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS
+852.2 Prior to approving the arrangements for the conduct of the Event, the Technical
+Delegate has overall control and responsibility for the arrangements of the Event.
+Once the Technical Delegate is satisfied with the arrangements for the Event, the
+Technical Delegate must inform the Ground Jury accordingly and at that point
+overall control and responsibility for the conduct of the Event transfers to the
+Ground Jury. The Technical Delegate will continue to supervise the technical and
+administrative conduct of the Event until its conclusion and will advise and assist
+the Ground Jury, the Veterinary Commission, and the OC.
+852.3 The Technical Delegate must check and approve the layout of the course and
+ride conditions to protect the welfare of Horses and safety of Athletes based on
+the level of the Competition(s), the degree of difficulty of the course, and the
+complicating weather conditions.
+852.4 The Technical Delegate will supervise the briefing(s) and the conduct of all
+technical personnel.
+852.5 The Technical Delegate will report to and advise the Ground Jury on all aspects
+relating to the technical and administrative arrangement of the Event, and assist
+as needed so that the Ground Jury can make any necessary decisions.
+852.6 At any CEI, the Technical Delegate, if suitably qualified, may also serve on the
+Ground Jury.
+852.7 At CEI 1*, 2* and 3*, provided there are 30 or fewer Horses entered in the Event,
+the Technical Delegate may also (if suitably qualified) serve as President of the
+Ground Jury or Chief Steward, subject to the approval of the FEI.
+853. GROUND JURY
+853.1 The Ground Jury will supervise all arrangements made by the OC for the
+veterinary control, stewarding, and time-keeping at the Competition.
+853.2 Once the Technical Delegate has reported to the Ground Jury that the Technical
+Delegate is satisfied with all the arrangements for the Event, the Ground Jury is
+responsible for the overall control and conduct of the Event.
+853.3 The OC must enlist the assistance of an appropriate number of other officials,
+Stewards and Veterinarians, depending on the number of entries (see Annex 6).
+853.4 The Foreign Judge or President of the Ground Jury (as indicated in the table
+below) must provide a report to the FEI containing the information set out in the
+FEI General Regulations within 15 days of the relevant Event:
+FEI Official responsible for providing
+Event
+report
+CEI1*, CEI2* CIM and
+Regional President of the Ground Jury
+Championships/Games
+CEI2*, CEI3* and
+Foreign Judge
+Championships
+47
+
+[TABELLA]
+Event: CEI1*, CEI2* CIM and
+Regional
+Championships/Games | : President of the Ground Jury
+Event: CEI2*, CEI3* and
+Championships | : Foreign Judge
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS
+853.5 The President of the Ground Jury may, in their sole discretion, eliminate a
+Combination at any point during the Competition if they decide that this would
+be in the best interest of the wellbeing and/or safety of the Horse and/or Athlete.
+854. VETERINARY COMMISSION
+854.1 The Veterinary Commission is responsible for making decisions in relation to, and
+advising the Ground Jury on all matters concerning, Horse health, safety, and
+welfare at Events.
+854.2 The President of the Veterinary Commission and the Foreign Veterinary Delegate
+should be consulted by the OC and the Technical Delegate as early as practicable
+regarding the planning for Vet Gates and other Horse safety issues at the Event.
+854.3 At CEI1* and CEI2* CIM, the President of the Veterinary Commission will also be
+responsible for the duties normally undertaken by a Foreign Veterinary Delegate.
+855. CHIEF STEWARD
+855.1 The Chief Steward is responsible for the organisation of stewarding throughout
+the Event across the entire Field of Play.
+855.2 The Chief Steward must ensure that stable security is adequate for the level of
+the Event and that sufficient stewards are available at each Vet Gate and on the
+course.
+855.3 The Chief Steward will assist the OC, Ground Jury and Technical Delegate to
+ensure the smooth running of all scheduled functions during an Event, such as
+opening and closing ceremonies or any official function organised during the
+Event.
+855.4 The Chief Steward is responsible for the overall security and welfare of
+participants at the Event across the Field of Play.
+855.5 The Chief Steward must liaise closely with the President of the Ground Jury, the
+Technical Delegate and the President of the Veterinary Commission, and should
+be consulted by the OC and the Technical Delegate as early as practicable
+regarding planning for the Event.
+856. INDEPENDENT GOVERNANCE ADVISORS
+856.1 At all FEI Events, the FEI has the right to appoint an Independent Governance
+Advisor to attend the Event and to report back to the FEI in relation to (i) the
+organisation of the Competitions, the venue and the course, (ii) the performance
+of the Officials, and (iii) suggested areas for improvement. Independent
+Governance Advisors must provide their reports to the FEI Endurance
+Department, which will share a copy of those reports with the FEI Endurance
+Technical Committee on request. The FEI Endurance Department will publish an
+annual report summarising the key findings of the Independent Governance
+Advisors (taking account of any confidentiality requirements). The FEI Endurance
+Technical Committee will also consider the Independent Governance Advisors'
+evaluation of the performance of Officials when appointing such Officials for
+Events.
+856.2 The FEI will appoint Independent Governance Advisors as follows:
+48
+2026 ENDURANCE RULES CHAPTER VII: OFFICIALS FOR ENDURANCE EVENTS
+856.2.1 Appointments are subject to the approval of the FEI Endurance
+Technical Committee.
+856.2.2 The FEI may appoint veterinary and non-veterinary Independent
+Governance Advisors.
+856.2.3 Independent Governance Advisors must at a minimum be qualified as
+level 3 Officials and have ten years' active experience officiating at
+that level.
+856.2.4 Independent Governance Advisors will be appointed for a term of one
+year, and may be re-appointed without term limits.
+856.2.5 During any period in which a person acts as an Independent
+Governance Advisor, this person may not accept any other FEI
+Official positions (excluding positions on the Hyposensitivity Control
+System Team) except for in their country of residence and with the
+approval of the FEI Endurance Department.
+856.3 Independent Governance Advisors will attend Events unannounced, i.e., no prior
+notice of their attendance may be given to the OC.
+856.4 The FEI will pay the costs of the Independent Governance Advisors to attend the
+selected Events, including per diems (as per the applicable FEI policy) and
+expenses (economy travel, accommodation and meals).
+856.5 The Independent Governance Advisors will not act (or be considered) as Officials
+at the Event, but may provide expert guidance or assistance if so required.
+856.6 Serving as an Independent Governance Advisor will count for the purposes of
+maintaining an FEI Official level.
+49
+2026 ENDURANCE RULES CHAPTER VIII: AWARDS AND PRIZE-GIVING CEREMONIES
+CHAPTER VIII: AWARDS AND PRIZE-GIVING CEREMONIES
+857. PRIZE MONEY AND AWARDS
+857.1 The FEI General Regulations govern the distribution of prize money.
+857.2 An award recognising completion (e.g., medal, ribbon, plaque, etc) must be
+given to all Athletes who successfully complete the course. There is no minimum
+value for such awards.
+857.3 All Athletes participating in a team that is classified for medals will receive a team
+medal.
+858. RANKINGS
+“Intentionally Omitted”
+Please refer to FEI Endurance Rankings document.
+859. PRIZE-GIVING CEREMONIES
+859.1 The Veterinary Commission must exclude any unfit Horse from participation in
+the prize-giving ceremony.
+859.2 Athletes and other persons participating in prize-giving ceremonies must comply
+with the dress code set out at Article 823.
+860. BADGES OF HONOUR
+Badges of Honour will be awarded as follows to Athletes who successfully complete
+World Championships:
+a) A Gold Badge for three successful completions.
+b) A Silver Badge for two successful completions.
+c) A Bronze Badge for one successful completion.
+861. ELITE ATHLETE STATUS
+861.1 Athletes who meet the criteria below will receive the recognition of Elite Athlete
+Status. Elite Athlete Status will not result in automatic qualification for any
+Championships. The Elite Athlete level refers to the achievements of the Athlete and
+not necessarily their current qualification level.
+861.1.1 Athletes can hold multiple Elite Athlete Statuses at the same time (for example,
+an Athlete could be a 2* Gold Elite Athlete as well as a 3* Bronze Elite Athlete
+simultaneously).
+50
+2026 ENDURANCE RULES CHAPTER VIII: AWARDS AND PRIZE-GIVING CEREMONIES
+Star Level Bronze Silver Gold
+20 successful 30 successful
+10 successful
+1* completions of completions of
+completions of CEI1*
+CEI1* CEI1*
+20 successful 30 successful
+10 successful
+2* completions of completions of
+completions of CEI2*
+CEI2* CEI2*
+20 successful 30 successful
+10 successful
+3* completions of completions of
+completions of CEI3*
+CEI3* CEI3*
+861.2 Juniors and Young Riders: To achieve Junior/Young Rider Elite Athlete Status,
+Athletes must have successfully completed a minimum of ten CEI1*, CEI2* or
+CEI3*.
+861.3 Seniors: To achieve Senior Elite Athlete Status, Athletes must have successfully
+completed a minimum of ten CEI1*, CEI2* or CEI3*.
+861.4 Consequences of EADCMR and suspensions of Elite Athlete Status:
+861.4.1 Athletes who receive any form of a suspension as defined under the FEI
+General Regulations or commit an offence under the FEI Equine AntiDoping and Control Medication Regulations will automatically lose their
+Elite Status and will be required to re-qualify again by completing all
+required CEIs starting (as applicable) either from the date the period of
+final suspension is imposed or the ‘fast track’ decision is finalised.
+861.4.2 If an Athlete who has not yet achieved Elite Status (but who is in the
+process of qualifying for Elite Status) receives any form of a suspension as
+defined under the FEI General Regulations or commits an offence under
+the FEI Equine Anti-Doping and Control Medication Regulations will be
+required to re-qualify again by completing all required CEIs starting (as
+applicable) either from the date the period of suspension is imposed or the
+‘fast track’ decision is finalised.
+861.4.3 Articles 861.4.1 and 864.2 will not apply to an Athlete who is found by the
+relevant body to have “No Fault or Negligence” for an offence or where a
+provisional suspension was originally imposed on the Athlete for an alleged
+offence but where the case was subsequently dropped and/or the Athlete
+was found by the relevant body not to have committed the alleged offence.
+This Article 861.4.3 shall also apply retroactively to cases arising prior to
+1 January 2025 but where the final decision is issued on/after 1 January
+2025.
+Transitional Provision – 861
+In order to calculate the new statuses of Athletes in Article 861 under these Endurance
+Rules, due to the availability of historical data and based on the Notes for Guidance
+from 2013 and 2014, the rides that count towards Elite Status are as of 2002.
+All CEI3* rides count towards the Elite Status regardless of their distance (140 km and
+above) and whether or not the ride was held as a multi-day Competition.
+51
+
+[TABELLA]
+Star Level: 1* | Bronze: 10 successful
+completions of CEI1* | Silver: 20 successful
+completions of
+CEI1* | Gold: 30 successful
+completions of
+CEI1*
+Star Level: 2* | Bronze: 10 successful
+completions of CEI2* | Silver: 20 successful
+completions of
+CEI2* | Gold: 30 successful
+completions of
+CEI2*
+Star Level: 3* | Bronze: 10 successful
+completions of CEI3* | Silver: 20 successful
+completions of
+CEI3* | Gold: 30 successful
+completions of
+CEI3*
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER VIII: AWARDS AND PRIZE-GIVING CEREMONIES
+862. BEST CONDITION AWARD
+862.1 The OC may organise a Best Condition Award at any Competition for the Horse that is
+in the best condition of the Horses finishing in one of the top ten classification positions
+after completing the Competition. FEI guidelines for determining the Best Condition
+Award are set out in Annex 2. Athletes are not obliged to enter their Horses in the Best
+Condition Award.
+862.2 All Horses entered in the Best Condition Award remain subject to doping/medication
+control. They are deemed to still be in the Competition until after the prize giving
+ceremony for the Best Condition Award.
+52
+2026 ENDURANCE RULES CHAPTER IX: DISCIPLINARY
+CHAPTER IX: DISCIPLINARY
+863. PROCEDURE
+863.1 Any breach of these Endurance Rules or other FEI Rules and Regulations will be dealt
+with in accordance with the procedures set out in these Endurance Rules or (where
+there are none) in accordance with the procedures set out in the FEI General
+Regulations or other applicable FEI Rules and Regulations.
+863.2 The sanctions listed in these Endurance Rules are not exhaustive. They apply in
+addition to any other sanctions set out in other applicable FEI Rules and Regulations.
+864. ATHLETE AND TRAINER PENALTY POINTS
+864.1 Subject to Article 864.3, in order to (i) protect Horse welfare and deter any failure to
+comply strictly with Article 8011, and (ii) deter any conduct that could constitute
+Incorrect Behaviour, an Athlete and Trainer will each automatically receive the
+following number of penalty points for each incident set out below. It is the
+responsibility of an Athlete and Trainer to know their status of penalty points:
+Incident Penalty points
+Disqualification for Late Presentation 10
+Failure to Qualify – metabolic (FTQ-ME) 10
+Failure to Qualify – Serious Injury
+25
+(metabolic)
+Failure to Qualify – Serious Injury
+80
+(musculoskeletal)
+100 (the additional penalties set out
+Failure to Qualify – Catastrophic Injury
+in Article 866.1 will also apply)
+Horse participating in an FEI Event or 100 (the additional penalties set out
+National Event during the applicable in Articles 839.3.3 and 866.1 will also
+Mandatory Out of Competition Period apply)
+Horse is not presented for Horse
+Inspection before leaving the Field of 100 (the additional penalties set out
+Play, except if Horse is immediately in Articles 810 and 866.1 will also
+transported for emergency medical apply)
+treatment
+1 Including, without limitation, to deter poor training practices, poor horsemanship, failure to safely manage the Horse
+over the course, and prioritising competitive or commercial influences over Horse welfare.
+53
+
+[TABELLA]
+: Disqualification for Late Presentation | : 10
+: Failure to Qualify – metabolic (FTQ-ME) | : 10
+: Failure to Qualify – Serious Injury
+(metabolic) | : 25
+: Failure to Qualify – Serious Injury
+(musculoskeletal) | : 80
+: Failure to Qualify – Catastrophic Injury | : 100 (the additional penalties set out
+in Article 866.1 will also apply)
+: Horse participating in an FEI Event or
+National Event during the applicable
+Mandatory Out of Competition Period | : 100 (the additional penalties set out
+in Articles 839.3.3 and 866.1 will also
+apply)
+: Horse is not presented for Horse
+Inspection before leaving the Field of
+Play, except if Horse is immediately
+transported for emergency medical
+treatment | : 100 (the additional penalties set out
+in Articles 810 and 866.1 will also
+apply)
+[/TABELLA]
+
+2026 ENDURANCE RULES CHAPTER IX: DISCIPLINARY
+Failure by the Person Responsible to
+provide a copy of the veterinary report
+from a designated/approved referral 80
+centre to the FEI in accordance with
+Article 840
+864.2 Athletes and Trainers accumulate penalty points over a rolling period of one year.
+Penalty points will be removed from the running total one year from the date on which
+they were incurred. The successful completion of a ride will result in the deduction of
+five penalty points from the Athlete’s and Trainer’s total of penalty points. Where the
+Athlete is also the Trainer of the Horse, the deduction will be applied to the Athlete’s
+penalty points total. In the case where the Athlete and the Trainer of the Horse are
+not the same person, the deduction will apply to both their penalty points totals
+individually. For the avoidance of doubt, the number of penalty points can never be
+reduced below zero. Should a Combination be subsequently disqualified, the deduction
+of the five penalty points will be reversed.
+864.3 In exceptional circumstances, Athletes and/or Trainers may appeal the penalty points
+imposed on them for a Failure to Qualify (Serious Injury (musculoskeletal) and Failure to
+Qualify (Catastrophic Injury) designations (only) pursuant to Article 864.1 on the sole
+ground that they bear ‘No Fault or Negligence’ for the incident in respect of which the
+penalty points were imposed. The appeal shall be filed with the FEI Tribunal in accordance
+with Article 162.5 and 162.6 of the FEI General Regulations.
+864.3.1 In the context of this Article 864.3, ‘No Fault or Negligence’ means that the
+Athlete and/or Trainer could not have taken any steps, even with the
+exercise of good training practices and horsemanship, to prevent the
+incident in question.2
+864.3.2 The Athlete or Trainer challenging the imposition of the penalty points bears
+the burden of proving (on the balance of probabilities) that they bear ‘No
+Fault or Negligence’ for the incident.
+864.3.3 If the FEI Tribunal considers that an Athlete and/or Trainer has
+demonstrated (on the balance of probabilities) that they bear ‘No Fault or
+Negligence’ for the relevant incident, it may rescind the imposition of the
+penalty points on that party.
+864.3.4 Except as specifically provided for in Article 864.3 above, Athletes and
+Trainers may not Protest, appeal or otherwise challenge the imposition of
+penalty points under Article 864.1.
+Transitional Provisions – 864
+As of 1 January 2024, Athlete and Trainer penalty points will be separated into two
+distinct counters (Athlete and Trainer) based on which role the points were incurred
+under. For the avoidance of doubt, if penalty points are incurred at an Event where
+2 For example, if a Horse suffers an aneurysm on a course and consequently sustains a Catastrophic Injury, provided
+that the Athlete and Trainer can provide veterinary records to establish that the Horse did indeed suffer an aneurysm
+and that the aneurysm caused the Catastrophic Injury, the Athlete and Trainer penalty points for the FTQ-Catastrophic
+Injury will be rescinded because they could not have known about or prevented an aneurysm, even applying good
+training practices and horsemanship.
+‘No Fault or Negligence’ may not be established where the Athlete fails to safely manage the Horse over the course
+(including where they fail to avoid any natural elements that may pose a risk to the horse especially when travelling at
+speed, such as visible animal holes and burrows, uneven surfaces, large stones, tree roots, etc).
+54
+2026 ENDURANCE RULES CHAPTER IX: DISCIPLINARY
+the Athlete is also the Trainer of the Horse, the points will go into their ‘Athlete counter’
+only. For penalty points carried over from 2023, should an Athlete also have been the
+Trainer of the Horse at the Event where the penalty points were incurred, the penalty
+points will go into their ‘Athlete counter’ as of 1 January 2024.
+The deduction of five penalty points is applied at the time of the successful completion
+of the ride once the results are processed and published.
+Article 864.3, which gives the possibility for the Athlete/Trainer to appeal against the
+imposition of penalty points for FTQ-SI-MUSCU and FTQ-CI only where exceptional
+circumstances exist and where they can establish that they bore ‘No fault or
+Negligence’, is not applicable retroactively and only applies as of 1 January 2024.
+865. WARNING CARDS
+865.1 Yellow Warning Card: The President of the Ground Jury, the Chief Steward or the
+Technical Delegate may issue a Yellow Warning Card to a Person Responsible for
+offences relating to Horse Abuse, Incorrect Behaviour, failure to comply with the
+protective headgear requirements, or otherwise where specified in these Endurance
+Rules.
+865.2 “Intentionally Omitted”
+865.3 Notification: The person receiving a warning card must be notified during the period
+of the Event that this person will receive a Yellow Warning Card, which will be delivered
+either by hand or by any other suitable means. If after reasonable efforts the person
+cannot be notified during the period of the Event, the person must be notified in writing
+within 14 days of the Event. A Yellow Warning Card may be issued in addition to any
+other sanction(s) issued in accordance with these Endurance Rules, FEI General
+Regulations, or other applicable Rules and Regulations.
+866. SUSPENSIONS
+866.1 If an Athlete or Trainer incurs 100 or more penalty points, the Athlete/Trainer will
+receive an automatic two-month suspension. After the suspension is served, the
+Athlete's/Trainer's penalty points total will be reduced by 100 points.
+866.2 The consequences during any period of suspension are set out in the FEI General
+Regulations.
+866.3 If a Horse ridden by an Athlete suffers a Serious Injury and/or a Catastrophic Injury
+within one year of any other Horse ridden by the same Athlete also suffering a Serious
+Injury and/or a Catastrophic Injury, that Athlete will be automatically suspended for
+six months.
+867. PROTESTS
+The procedure for protests is set out in the FEI General Regulations.
+55
+2026 ENDURANCE RULES ANNEX 1: DEFINITIONS
+ANNEX 1: DEFINITIONS
+A.1 Defined terms used in these Endurance Rules (denoted by initial capital letters) have the
+meaning given to them in this Annex 1, or (if not listed in this Annex 1) have the meaning given
+to them in the FEI Statutes, FEI General Regulations, FEI Veterinary Regulations, or other
+applicable FEI Rules and Regulations.
+Athlete: as defined in Article 800.4.2.
+Best Condition Award: the award described in Article 862 and Annex 2.
+Blinkers: a garment fitted over a Horse's head with holes for the eyes and ears, one or
+both eyeholes being fitted with cowls cutting out all vision to the rear but permitting full
+forward vision.
+Catastrophic Injury: an injury/clinical signs that, in the opinion of the President of the
+Veterinary Commission, the President of the Treating Veterinary Commission, and the
+Foreign Veterinary Delegate requires immediate euthanasia or contributes to the death
+of a Horse in Competition or as a result of injuries sustained during a Competition,
+howsoever caused. (For the procedures in the event of a Horse fatality, see Article 840,
+paragraph 6 of Annex 5, and the FEI Veterinary Regulations).
+CEI: as described in Articles 802.1.1 and 802.2.
+CEIO: as described in Articles 802.1.2 and 802.3.
+Championships: the Endurance championships outlined in Article 802.4.2.
+Combination: a Horse and Athlete pair competing in a Competition.
+Competition: an FEI Endurance ride in which Athletes are placed in order of merit and
+for which prizes may be awarded.
+Crew Member: a person nominated and permitted to provide assistance to a
+Combination on the Field of Play.
+Definite Entries: the list of confirmed Athlete/Horse entries submitted by a National
+Federation to participate in a Competition (for Championships and FEI World Equestrian
+Games, the Athletes/Horses must be selected from the list of Nominated Entries).
+Disqualification: as defined in Article 809.5.2.
+Elite Athlete Status: the status/recognition given to Athletes who meet the criteria of
+Article 861.
+Endurance: as described in the Preamble to these Endurance Rules.
+Yellow Warning Card: as described in Article 865.1.
+Event: as defined in Article 800.1 (an Event may include one or more Competitions).
+Failure to Qualify: as defined in Article 809.5.1, and as further detailed in Annex 3
+(elimination codes).
+FEI Calendar: the calendar of FEI sanctioned events available at:
+https://data.fei.org/Calendar/Search.aspx.
+FEI Rules and Regulations: as defined in Article 800.1.
+56
+2026 ENDURANCE RULES ANNEX 1: DEFINITIONS
+Field of Play: as defined in Article 813.
+Final Horse Inspection: the mandatory Horse Inspection that takes place at the end of
+the Competition.
+First (Pre-Ride) Inspection: the first Horse Inspection that takes place at the start of
+the Competition, before the first Loop.
+Foreign Veterinary Delegate: as defined in the FEI Veterinary Regulations. Subject to
+Article 854.3, if no Foreign Veterinary Delegate is appointed, that role will be fulfilled by
+the Primary Veterinary Delegate.
+Hold Time: as described in Article 816.8.
+Horse Abuse: see definition of 'Abuse of Horse' under the FEI General Regulations and
+Article 801 of these Endurance Rules. (Horse Abuse is also referred to as 'Abuse of a
+Horse').
+Loop: as defined in Article 814.1.
+Mandatory Out of Competition Period (or MOOCP): the mandatory period during
+which a Horse may not compete in any National or FEI Events, as described in Article
+839.
+National Event: endurance rides organised at the national-level under the jurisdiction
+of National Federations.
+Nominated Entries: the list of Athletes and Horses nominated by a National Federation
+to participate in a Competition from which the Definite Entries and any substitutions must
+be chosen.
+OC: the committee responsible for organising an Event.
+Official Team Competition: a team competition at a CEIO.
+Phase: as defined in Article 815.
+Serious Injury: a serious injury of a Horse may be classified as musculoskeletal or
+metabolic:
+Serious musculoskeletal injuries include but are not limited to fractures, serious
+tendon or ligament damage, or muscle injuries that preclude normal ambulation.
+A Horse that is non-weight-bearing, even if the cause is undiagnosed, must be
+classified as having a Serious Injury (musculoskeletal).
+Serious metabolic injuries include any condition that requires urgent treatment or
+fails to be completely resolved by treatment at the venue, and (following a vote
+with at least 2/3 majority) in the opinion of the President of the Veterinary
+Commission, the President of the Treating Veterinary Commission, and the
+Foreign Veterinary Delegate requires further assessment and continued
+appropriate veterinary care beyond the period of Competition. Examples include
+but are not limited to persistent colic, acute kidney injury, myopathy, collapse,
+heat stroke, and other metabolic conditions that may compromise the Horse's
+health and well-being. If the condition is such that referral is recommended, it
+must be considered a Serious Injury (metabolic).
+Trainer: as defined in Article 800.4.1.
+Vet Gate: as defined in Article 813.1.3.
+57
+2026 ENDURANCE RULES ANNEX 1: DEFINITIONS
+Vetting Area: as defined in Article 816.3.
+A.2 In these Endurance Rules, unless expressly specified otherwise:
+A.2.1 words importing one gender include the other genders;
+A.2.2 words in the singular include the plural, and words in the plural include the
+singular;
+A.2.3 references to Articles and Annexes are references to articles of and annexes to
+these Rules; references to 'paragraphs' are references to provisions in the
+Annexes;
+A.2.4 any reference to a provision in a rule or regulation includes any modifications or
+successor provisions made or issued from time to time;
+A.2.5 any reference to legislation includes any modification or re-enactment of
+legislation enacted in substitution of that legislation, and any regulation, orderin-council or other instrument from time to time issued or made under that
+legislation;
+A.2.6 any reference to an agreement includes that agreement as modified,
+supplemented, novated or substituted from time to time;
+A.2.7 a reference to 'writing' or 'write' includes fax and email;
+A.2.8 a reference to 'may' means 'in the sole discretion of such person'; a reference
+to 'may not' is a prohibition;
+A.2.9 a reference to a person includes natural persons, corporate bodies, and
+unincorporated bodies (whether or not having separate legal personality), and
+also includes the legal personal representatives, successors and permitted
+assigns of such person;
+A.2.10 a reference to a 'day' means any day of the week and is not limited to working
+days, and a reference to ‘one day’ or a ‘single day’ means a consecutive 24-hour
+period (for a ride to be completed in one – or a single – day, there may not be
+any breaks between the start and finish of the ride within the 24-hour period);
+A.2.11 an expression of time refers to Greenwich Mean Time (GMT);
+A.2.12 headings and tables of content are for reference only and shall not affect the
+proper interpretation and application of the Rules or Regulations in question;
+and
+A.2.13 any words following the terms 'including', 'include', 'in particular', 'such as', 'for
+example', or any similar expression, shall be construed as illustrative and shall
+not limit the sense of the words, description, definition, phrase or term preceding
+those terms.
+A.3 In the event of any inconsistency between these Endurance Rules and the FEI Statutes,
+the FEI Statutes shall prevail. Unless expressly specified otherwise, in the event of any
+inconsistency between these Endurance Rules and the FEI General Regulations, the FEI General
+Regulations shall prevail.
+58
+2026 ENDURANCE RULES ANNEX 2: FEI GUIDELINES FOR BEST CONDITION AWARD
+ANNEX 2: FEI GUIDELINES FOR BEST CONDITION AWARD
+The OC may use the following guidelines for a Best Condition Award (if held by the OC):
+1. The Best Condition Award will be determined on the day (or last day) of the Competition
+by a panel of three members (including a chair), made up of (i) two Official Veterinarians
+and one Judge, or (ii) three Official Veterinarians, as selected by the President of the
+Veterinary Commission. Details of the criteria used to judge the award must be
+announced prior to the start of the assessment.
+2. Only the Horses classified in the top ten finishing positions of the Competition may
+participate in the Best Condition Award, provided that they have successfully completed
+the Competition in a time that is within an additional percentage of the winning time
+(such percentage to be determined by the Ground Jury).
+3. The procedure for assessing the Horses for the Best Condition Award will be as follows:
+3.1 First stage: Prior to any examination under the saddle, the Horse will be assessed
+unmounted for gait, metabolic parameters, and surface injuries.
+3.2 Second stage: If not eliminated at the first stage, the Horse must be trotted 40
+metres out and back, followed by trotting in a figure eight.
+3.3 Third (optional) stage: The Best Condition Award may include a mounted phase.
+If a mounted phase is included, and provided the Horse is not eliminated at the
+previous stages, the Athlete will be required, on the instructions of the chair of the
+Best Condition Award panel, to demonstrate their equitation skills in a free range
+ridden display of the Athlete’s choice. The purpose of this display is to exhibit the
+soundness of the Horse, including its fitness, agility and willingness to compete.
+This free-range equitation display may not exceed five minutes.
+3.4 If the panel considers that the Horse has an irregular gait, is unable to complete
+the trot out due to lack of impulsion or exhaustion, or fails to meet the metabolic
+criteria, the Horse will be eliminated from the Best Condition Award.
+4. The scoring is divided into four sections of equal points (100 points for each section):
+4.1 Section 1: points are awarded based on the position of the Horse compared to the
+first Horse to finish.
+4.2 Section 2: points are awarded based on the recovery time of the Horse for each
+Phase, except for the finish. The recovery time is the time between when the
+Athlete completes the Loop and presents for the Horse Inspection (for the
+avoidance of doubt, the Horse must pass the inspection for the phase to be
+considered completed).
+59
+2026 ENDURANCE RULES ANNEX 2: FEI GUIDELINES FOR BEST CONDITION AWARD
+4.3 Section 3: points are awarded based on the Horse's results during the veterinary
+inspection (taking place as part of the Best Condition Award) and are scored as
+follows:
+4.4 Section 4: this section is optional. Points are awarded by subtracting the weight
+of the Athlete under examination from the weight of the heaviest Athlete whose
+Horse is being considered for the Best Condition Award. The score is obtained by
+subtracting this difference from 100.
+5. The Horse with the highest score after adding the points under the four sections above
+will be declared the winner of the Best Condition Award.
+60
+2026 ENDURANCE RULES ANNEX 3: ELIMINATION CODES
+ANNEX 3: ELIMINATION CODES
+WD: Withdrawn
+- The Combination decides not to participate in the Competition at or prior to the First (PreRide) Inspection in accordance with Article 809.5.3.
+RET: Retired
+- The Combination decides not to continue in the Competition in accordance with Article
+809.5.4.
+DSQ: Disqualified
+- A Combination is Disqualified in accordance with Article 809.5.2.
+- A Horse may be Disqualified and also designated as Failed to Qualify for a veterinary or
+other reason (see list under FTQ below).
+- In addition to other reasons for Disqualification, the following reasons may apply:
+o Underweight (UW)
+o Late Presentation (LP)
+o Hyposensitivity (HYPO)
+o Horse Abuse (HA)
+o Horse Not Presented (HNP)
+FNR: Finished Not Ranked
+- FNR means that the Combination has (or is deemed to have) completed a Competition
+(including all Horse Inspections) but is not ranked in the final classification (see e.g.,
+Article 820.2 regarding an error on course).
+- A Combination may be designated FNR with the approval of the President of the Ground
+Jury and/or the Technical Delegate. The Officials must provide reasons for the FNR
+designation.
+- If in addition to the FNR designation the Combination receives a certificate of completion
+from the Officials at the Event, the Competition will count as a 'successful completion' for
+qualification purposes.
+FTQ: Failed to Qualify
+The FTQ designation must be accompanied by one or more of the additional codes below:
+- SP: Speed (not respecting any applicable speed restriction)
+- GA: Irregular gait
+- ME: Metabolic
+- MI: Minor Injury (e.g., slight soreness, wound, etc.)
+- SI-MUSCU: Serious Injury (musculoskeletal injury)
+- SI-META: Serious Injury (metabolic injury)
+- CI: Catastrophic Injury
+- OT: Out of Time (failure to complete a Loop within the allocated time, but passes the
+Horse Inspection after that Loop)
+- FTC: Failed to Complete (non-completion of a Loop, but passes the Horse Inspection after
+that Loop). The Officials must provide reasons for the FTC designation, and an explanation
+of what happened to the Combination.
+61
+2026 ENDURANCE RULES ANNEX 3: ELIMINATION CODES
+The above FTQ codes may be cumulative, as shown in the table below:
+Code #1 Code #2 Code #3
+SP
+GA
+ME
+GA + ME
+MI
+CI + SP
+SI-MUSCU
+SI-META
+OT
+FTC
+GA
+ME
+GA + ME
+MI
++ OT + SP
+CI
+SI-MUSCU
+SI-META
+FTC
+SI-MUSCU + ME + SP
+SI-META + GA + SP
+62
+
+[TABELLA]
+Code #1: GA
+ME
+GA + ME
+MI
+CI
+SI-MUSCU
+SI-META
+OT
+FTC | : + | Code #2: SP
+Code #1: GA
+ME
+GA + ME
+MI
+CI
+SI-MUSCU
+SI-META
+FTC | : + | Code #2: OT | : + | Code #3: SP
+Code #1: SI-MUSCU | : + | Code #2: ME | : + | Code #3: SP
+Code #1: SI-META | : + | Code #2: GA | : + | Code #3: SP
+[/TABELLA]
+
+2026 ENDURANCE RULES ANNEX 4: FEI WORLD ENDURANCE RANKINGS
+ANNEX 4: FEI WORLD ENDURANCE RANKINGS
+“Intentionally Omitted”
+Please refer to FEI Endurance Rankings document.
+63
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS, CONTROL OF
+MEDICATION
+PART A: VETERINARY CONTROL
+1. Veterinary Commission and Horse welfare
+1.1 As set out in Article 854.1, the Veterinary Commission is responsible for making
+decisions in relation to, and advising the Ground Jury on all matters concerning,
+Horse health, safety, and welfare at Events.
+1.2 Unless specified otherwise, any decisions required to be taken by a panel of three
+Veterinarians will be based on a majority vote. Where the panel is required to
+determine whether or not a Horse should be designated as 'Failed to Qualify', each
+of the three Veterinarians must independently (without conferring with each other)
+write their decision on a confidential voting slip (marked pass or fail) and provide
+it directly to a member of the Ground Jury.
+1.3 The Ground Jury will make decisions concerning Horse welfare based on the
+decisions and advice of the Veterinary Commission. Any decision of the Veterinary
+Commission or the Ground Jury taken on the direct advice of the Veterinary
+Commission is final, and may not be appealed.
+1.4 Where the Ground Jury designates a Horse as 'Failed to Qualify', it must provide
+the reasons for doing so, which must be recorded in accordance with paragraphs
+3.1 and 3.4(c), below.
+2. Foreign Veterinary Delegate / Primary Veterinary Delegate
+Subject to Article 854.3, if no Foreign Veterinary Delegate is appointed for an Event, that
+role will be fulfilled by the Primary Veterinary Delegate.
+3. Horse records
+3.1 For each Event, individual Vet Cards must be issued for each Horse before the First
+(Pre-Ride) Inspection and must be completed for all subsequent Horse
+Inspections. The Vet Cards may be in paper or electronic form, provided that only
+the FEI-issued paper/electronic forms are used, and (if the OC opts to use the
+electronic form) then the OC must specify this in the Competition Schedule.
+3.2 All the relevant information required at the Horse Inspections (see paragraph 9.2)
+and any other details from other veterinary inspections/examinations or as
+otherwise required under this Annex 5 or the FEI Veterinary Regulations must be
+recorded on the Vet Card for each Combination and must be available at all
+subsequent inspections and examinations.
+3.3 Athletes are entitled to see and copy the record referring to their Horses
+immediately after each Horse Inspection.
+3.4 After each Event:
+(a) details of a Horse’s completed distance to the nearest Vet Gate, reasons
+for non-classification (metabolic, irregular gait or both), treatments at the
+venue, referral for hospitalisation, Mandatory Out of Competition
+Period(s) and any other comments necessary to protect the Horse’s future
+64
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+safety and welfare deemed necessary by the Veterinary Commission must
+be recorded on the Vet Card;
+(b) all Vet Cards must be sent to the FEI Veterinary Department in electronic
+form within 72 hours of the end of the Event, but copies may also be
+retained by the OC (if paper cards are used during the Event, they must
+be scanned or photographed or the details must be manually entered into
+an electronic form, e.g., Word); and
+(c) the Veterinary Report for the Event must be sent to the FEI Veterinary
+Department in electronic form in accordance with the FEI Veterinary
+Regulations and any other requirements for reporting set out in the FEI
+Veterinary Regulations. This report must include details of any injury or
+disease suffered by a Horse and the treatment provided for such
+injury/disease.
+3.5 Only the Veterinary Commission and/or President of the Ground Jury may make
+entries in the official record.
+4. Veterinary supervision at Events
+To ensure that Horses have adequate rest between travel and Competition, and to ensure
+adequate veterinary supervision before and after a ride, at all CEI 2*, CEI 3*, and
+Championships, subject to the discretion of the Veterinary Commission, all competing
+Horses must remain in the stable area at the Event under veterinary supervision (by the
+President of the Veterinary Commission, the Foreign Veterinary Delegate, a member of
+the Veterinary Commission, and/or a Treating Veterinarian) for (i) a minimum of eight
+hours before the First (Pre-Ride) Inspection for CEI 2* and CEI 3* (subject to published
+closing times for the stables), and (ii) a minimum of eight hours after the scheduled finish
+for the Competition.
+If a Horse has not completed all Phases of the Competition, the President of the Veterinary
+Commission, Foreign Veterinary Delegate and President of the Ground Jury may authorise
+the release of a Horse at an earlier time.
+Horses participating at a Championship must be stabled at the venue overnight and must
+enter the stables at the latest 4 hours before the official closing time of the stables the
+night before the First Inspection.
+In the event of unforeseen and exceptional circumstances a Horse may present up to one
+hour before closing time of the stables subject to the specific approval of both the
+Technical Delegate and Foreign Vet Delegate.
+5. Veterinary services and aftercare
+5.1 The President of the Veterinary Commission or Foreign Veterinary Delegate are
+required to provide for appropriate aftercare and veterinary services as set out in
+the FEI Veterinary Regulations. For Championships, triage and emergency
+treatment facilities must be provided on site, and arrangements must also be
+made with a designated referral centre to refer Horses for further assessment and
+treatment if necessary. Such arrangements must be clearly written in the
+Competition Schedule and approved by the Technical Delegate in collaboration
+with the President of the Veterinary Commission and Foreign Veterinary Delegate
+prior to the Examination on Arrival.
+5.2 After the First (Pre-Ride) Inspection, the President of the Veterinary Commission
+and Foreign Veterinary Delegate in consultation with the Ground Jury may
+65
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+recommend changes in the treatment arrangements including the placement of
+members of the Veterinary Commission, or scheduling of their availability, for help
+in the treatment/aftercare area. Such arrangements must identify the Treating
+Veterinarian(s) and the treatment group must include a Veterinarian licensed to
+practice Veterinary medicine in that geographical location.
+6. Horse fatality
+6.1 If a Horse dies for any reason at the Event, the Foreign Veterinary Delegate must
+ensure that the procedures set out in the FEI Veterinary Regulations are carried
+out.
+6.2 If a Horse that has competed in an Event dies for any reason that is related to its
+participation in that Event (including where the Horse suffers a Catastrophic Injury
+or Serious Injury requiring referral to a designated referral centre), the Person
+Responsible (as defined in the FEI General Regulations) and the Horse’s
+administering National Federation must notify the FEI Veterinary Department as
+required under the FEI Veterinary Regulations, and also comply with the
+procedures set out in Article 840 of the Endurance Rules and in the FEI Veterinary
+Regulations.
+PART B: HORSE INSPECTIONS AND EXAMINATIONS
+7. Examination on Arrival
+7.1 Examination on Arrival must be carried out at all FEI Events and take place in a
+designated Examination on Arrival area as described in the FEI Veterinary
+Regulations. The Foreign Veterinary Delegate (or their appointee, who must be an
+FEI Veterinarian) must examine all Horses arriving at the Event venue and collect
+their FEI passports, before they are allowed to enter the stables.
+(a) For CEIs, the Examination on Arrival may be coupled with the First (PreRide) Inspection, but (for biosecurity reasons) Horses may not enter the
+stables at the Event before the Examination on Arrival is completed.
+(b) At CEIOs and Championships, the Examination on Arrival and First (PreRide) Inspection must occur separately and far enough in advance to allow
+for isolation of compromised Horses and their travelling partners until
+health questions or concerns are satisfied. The OC must provide adequate
+isolation facilities for those purposes.
+7.2 During the Examination on Arrival, a member of the Veterinary Commission must:
+(a) verify the identity of the Horse from its FEI passport, using the diagram,
+description, and (if applicable) the microchip number;
+(b) check that the Horse has been vaccinated against equine influenza in
+accordance with the FEI Veterinary Regulations;
+(c) verify whether all details relating to the Horse's identification, vaccination
+record and other health requirements are correctly recorded in the Horse's
+Passport;
+(d) ensure that the Horse does not have any clinical signs of infectious
+disease. This may include a clinical examination to assess the heart,
+respiratory rate, body temperature and the checking of any other clinical
+parameters; and
+66
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+(e) palpate the limbs and/or body only when there is a concern of a suspected
+injury or illness sustained during travel.
+7.3 Following the Examination on Arrival, any Horse considered not fit to compete
+must be reported to the Ground Jury before the First (Pre-Ride) Inspection. The
+Veterinary Commission/Foreign Veterinary Delegate must discuss the matter with
+the Ground Jury, and the Ground Jury (if it considers necessary) may remove the
+Horse from the Competition before the First (Pre-Ride) Inspection.
+7.4 Horses that are not vaccinated against Equine Influenza as required under the FEI
+Veterinary Regulations or whose vaccination status cannot be confirmed (e.g.,
+failure to produce an FEI passport) must be refused permission to enter the Event
+stables and stabled in the isolation stables.
+7.5 Horses that have any clinical findings consistent with non-infectious diseases or
+injury must be reported to the Veterinary Commission/Foreign Veterinary Delegate
+as soon as possible.
+7.6 Horses must be stabled in the isolation stables if they show any clinical signs of
+infectious disease, or have been in contact with other Horses that show clinical
+signs of infectious disease. These Horses must be refused permission to enter the
+Event stables and stabled in isolation stables pending recovery, or until alternative
+arrangements have been made.
+7.7 Any biosecurity concern must be immediately reported to the Veterinary
+Commission/Foreign Veterinary Delegate.
+8. Horse Inspections
+8.1 Following the Examination on Arrival, all Horse Inspections during the Competition
+will be performed by the Veterinary Commission and will follow the same format.
+If there are any changes to how the Horse Inspections will be conducted, that
+must be announced prior to the Competition by the Ground Jury or published in
+the Competition Schedule.
+8.2 First (Pre-Ride) Inspection: The First (Pre-Ride) Inspection will take place
+either on the day preceding or early on the day that the first Loop of the ride
+starts.
+8.3 Horse Inspections at each Vet Gate: Horse Inspections will take place in the
+Vetting Area at the Vet Gate after the end of each Loop.
+8.4 Compulsory re-inspections: The Veterinary Commission, in consultation with
+the Ground Jury, may require that all Horses in the Competition (or all Horses
+meeting certain criteria, see e.g., Article 816.6.5) be presented for a compulsory
+re-inspection at specified Vet Gates. Compulsory re-inspections will take place in
+the last 15 minutes of a Combination's Hold Time at the relevant Vet Gate.
+8.5 Requested re-inspections: Any member of Veterinary Commission may ask an
+Athlete to present their Horse for re-inspection at any Vet Gate if they have any
+concerns about the Horse. Vet-requested re-inspections will take place in the last
+15 minutes of a Combination's Hold Time at the relevant Vet Gate.
+8.6 Final Horse Inspection: The Final Horse Inspection will take place after the
+Horse crosses the finish line of the ride.
+67
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+8.7 Veterinary inspection in case of visible blood:
+If blood is visible on a Horse during a Horse Inspection, the Horse must be
+examined by a panel of three Veterinarians. If the panel of Veterinarians
+determines (i) that the Horse has free-flowing blood from an injury or orifice, or
+(ii) that continuing in the Competition will in any way endanger (or risk
+endangering) the welfare of the Horse, the Horse must be designated as Failed to
+Qualify. The Horse may continue in the Competition only if the panel of
+Veterinarians determines that the blood is not free-flowing and that continuing in
+the Competition does not in any way endanger (or risk endangering) the welfare
+of the Horse (for example, where the Horse suffers a minor scratch from a tree
+branch). The Veterinary Delegate must report any blood visible on the Horse
+(regardless of the panel’s determination) in the Veterinary Report for the Event
+(see the FEI Veterinary Regulations), including the Horse's FEI registration
+number, a description of the injury, a photograph of the injury, the determination
+of the panel with reasons, and the names and FEI registration numbers of each of
+the three panel members that examined the Horse).
+8.8 Other veterinary inspections:
+The Veterinary Commission or Ground Jury may select any Horses at random at
+any time to submit to a Horse Inspection during the Competition.
+9. Assessments during Horse Inspections
+9.1 The Veterinarians’ responsibilities to evaluate a Horse are the same for all Horse
+Inspections, i.e., the same standards apply to judging fitness to continue in the
+Competition with respect to heart rate, metabolic status, gait and general
+condition up to and including the Final Horse Inspection.
+9.2 Assessments for all Horse Inspections: The Veterinarian conducting the Horse
+Inspection will assess the Horse’s general condition and its metabolic status, while
+taking into account the Horse's recovery time (see Article 816.2). The assessments
+will include heart rate, mucous membrane characteristics, capillary refill time,
+intestinal activity (gut sounds), estimated hydration status, and demeanour. The
+Veterinarian will also evaluate the Horse's gait and assess any soreness on
+palpation of the back and girth, the texture and any sensitivity of the muscles,
+and any minor injuries including in the mouth or around the saddle and girth area.
+These assessments and any other observations regarding the Horse’s condition
+must be recorded on the Vet Card.
+9.2.1 Subject to the prior approval of the President of the Ground Jury, a Treating
+Veterinarian who has been appointed on the approved Event Schedule,
+may assist in conducting the veterinary inspections on the vet lanes when
+there is a high number of Horses arriving together, provided this Treating
+Veterinarian has the required level (EOV) to perform this function, and
+provided there are no Horses that need treatment, and that this
+Veterinarian has not already treated a Horse. As soon as this Treating
+Veterinarian is needed to treat a Horse, they may no longer be part of the
+Veterinary Commission on the vet lane. Priority must always be given to
+Horses in need of treatment.
+68
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+9.3 Heart rate assessment procedure:
+(a) All heart rate assessments must be undertaken by a member of the
+Veterinary Commission. Heart rate is the first parameter to be examined
+and recorded during the Horse Inspection. It is an essential criterion to
+accurately assess the Horse’s recovery and fitness to continue. The
+recovery time of the Horse must also be made available to the
+Veterinarian conducting the Horse Inspection.
+(b) The maximum heart rate parameters are set out in Article 816.6.1 (which
+are subject to modification pursuant to Article 816.9). Horses with heart
+rates higher than maximum heart rate parameters will not be allowed to
+continue in the Competition and will be designated as 'Failed to Qualify –
+metabolic' (FTQ – ME). Any abnormal heart sounds must be recorded on
+the Vet Card.
+(c) Every effort should be taken to accurately record the heart rate. If the
+examination of the heart rate is disrupted due to movement or excitement
+of the Horse rendering the examination impossible or inaccurate, the
+examination will be stopped and recommenced when the Horse is settled.
+If the Athlete, Crew Member, or other Person Responsible (as defined in
+the FEI General Regulations) deliberately disrupts the Horse Inspection,
+the Horse will fail the inspection.
+(d) The heart rate of the Horse must be measured using either a stethoscope
+or an electronic heart rate monitor (subject to FEI control/approval when
+applicable). When the Horse is presented for inspection, the stethoscope
+or the electronic heart rate monitor must be applied to the left side of the
+chest wall at approximately the level of the elbow. The examiner should
+locate the best position to measure the heart rate.
+(e) Starting and timing the assessment:
+(i) Where a stethoscope is used, a stop watch must be used to time
+the count. An assessment must be taken after 15 seconds and then
+(if necessary further to the provisions below) at 60 seconds. To
+evaluate the heart rate after 15 seconds under paragraph (f)(i)
+below, the number of heart beats counted in 15 seconds must be
+multiplied by four. The stop watch must be started when the heart
+beat is audible and then the count starts on the next heartbeat.
+(ii) Where an electronic heart rate monitor is used, the monitor must
+provide an assessment at the following intervals displaying
+readings at: 15, 30, 45 and 60 seconds only. The assessment
+starts when the monitor makes contact with the Horse's chest and
+picks up the first heartbeat.
+(f) Determining whether the Horse's heart rate complies with the maximum
+heart rate parameters:
+(i) The Horse’s heart rate will be measured for a minimum of 15
+seconds and a maximum of 60 seconds at 15-second intervals.
+(ii) If at any of these 15-second intervals, the heart rate reading
+complies with the maximum heart rate parameter, then the
+reading may be recorded and the inspection completed. 15 (or
+less) beats within the first 15 seconds, which would be the
+69
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+equivalent of 60bpm (or less) at 60 seconds, 32 beats (or less)
+within 30 seconds or 48 beats (or less) within 45 seconds, or 64
+beats (or less) within 60 seconds).
+(iii) If the heart rate reading at the above-mentioned intervals are
+greater than their corresponding values of the maximum heart rate
+parameter, the heart rate assessment must continue for another
+15 seconds until it reaches the 60 second mark.
+(iv) If the heart rate is greater than the maximum heart parameter
+after the 60-second assessment:
+(A) Except for the Final Horse Inspection (where only one
+presentation is permitted), if there is time remaining for a
+second presentation (see Article 816.6), the Horse may
+leave the Vetting Area and be presented a second time for
+a heart rate re-inspection. The same procedures under
+paragraphs (a)-(f) above will apply to the second
+presentation.
+(B) If there is no presentation time remaining for a heart rate
+re-inspection or the Horse fails to meet the maximum heart
+rate parameters at the heart rate re-inspection or at the
+Final Horse Inspection (where only one presentation is
+permitted), then a confirmation procedure must be
+completed to confirm the failed assessment. For the
+confirmation procedure, the Horse must be presented to a
+second Veterinarian immediately after the failed
+assessment. If an electronic heart rate monitor was used
+for the failed assessment, then a second electronic heart
+rate monitor (or, if not available, a stethoscope) must be
+used. The Veterinarian will assess the Horse's heart rate for
+15 seconds only. If the Horse is to be designated as 'Failed
+to Qualify', then the Horse's heart rate during the
+confirmation procedure must either be made available on a
+public electronic display or notified to a member of the
+Ground Jury. If the Horse's heart rate is greater than the
+maximum heart rate parameter during the confirmation
+procedure, the Horse will be designated as 'Failed to Qualify
+– metabolic' (FTQ-ME).
+(g) Cardiac Recovery Index (CRI):
+As part of the metabolic assessment of the Horse, the Cardiac Recovery
+Index (CRI) of the Horse will also be measured (and recorded) at each
+Horse Inspection. Once the heart rate of the Horse has been recorded
+following the procedure above under paragraph 9.3, the Veterinarian will
+assess the gait of the Horse through a trot-up in the vet lane. The
+Athlete/Crew Member must trot the Horse 80 m (40 m out and 40 m
+back). The Veterinarian will start a stop watch at the start of the trot, stop
+it at one minute, and then measure the Horse's heart rate for up to 60
+seconds using a stethoscope. The difference between the first and second
+heart rates is the CRI. While measuring the second heart rate, the
+Veterinarian will also consider whether there are any pathological signs
+(e.g., such as heart murmurs or rhythm abnormalities) that may indicate
+that the Horse is unfit to continue. The Veterinarian may not perform any
+manipulation prior to taking the second heart rate that is likely to cause
+70
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+the heart rate of the Horse to become artificially elevated (such as by
+examining the Horse's head).
+9.4 Respiratory system: Abnormalities in rate or character of the breathing deemed
+by the Veterinary Commission to be of such a nature as to endanger the safety of
+the Horse will result in a Failure to Qualify designation.
+9.5 General condition and metabolic status: Horses in a generally poor condition
+or with an abnormally high temperature will be designated as Failed to Qualify –
+metabolic (FTQ-ME).
+9.6 Metabolic status: The metabolic status will be assessed by the examination and
+recording of those parameters that indicate the Horse's fitness to continue in the
+Competition including mucous membranes characteristics, capillary refill time,
+hydration, intestinal activity (gut sounds), demeanour and Cardiac Recovery
+Index. Failure to Qualify due to metabolic status, musculoskeletal injuries or other
+reasons will require a review by a panel of three Veterinarians.
+9.7 Irregular gait: During any inspection during the course, a Horse with an irregular
+gait that is observable through evaluation by trotting the Horse on a loose lead in
+hand straight out and back, without prior flexion or deep palpation, which is
+observed to cause pain, or threaten the immediate ability of the Horse to continue
+safely the Competition, will be removed from Competition and will be designated
+as Failed to Qualify – irregular gait (FTQ-GA). To assess irregular gait:
+(a) The inspection must be carried out on a flat firm surface. The person
+trotting the Horse must lead the Horse from the Horse’s left-hand side on
+a loose rein beside the Horse and not in front or behind the Horse (see
+Annex 8).
+(b) If after having once trotted the Horse, the observing Veterinarian
+questions the Horse’s fitness to continue, the Horse will be re-trotted
+before a panel of three Veterinarians accompanied by a Ground Jury
+member.
+(c) Any of the three Veterinarians may call for a single additional trot up prior
+to voting if the Veterinarian so wishes, giving the Horse and Athlete the
+benefit of the doubt, and will communicate that request to the member of
+the Ground Jury present who will request the Horse be trotted again.
+(d) If following three attempts the gait cannot be evaluated due to poor
+presentation of the Horse or an inability of the Horse to trot the full
+distance, or the Horse is deemed not fit to continue due to irregular gait,
+the Horse will be designated as 'Failed to Qualify – irregular gait' (FTQGA).
+(e) Any unusual feature about a Horse’s gait must be noted on the Vet Card
+of the Horse, whether it is deemed grounds for a 'Failed to Qualify'
+designation or not. Where electronic systems are used, there must be
+provision for this.
+9.8 Soreness, laceration and wounds: Any evidence of soreness, lacerations
+and/or wounds in the mouth, on the limbs and/or on the body (including girth and
+saddle sores) must be recorded on the Vet Card. If participation in or continuation
+of the Competition is likely to aggravate any such soreness, lacerations or wounds
+or in any way endangers (or risks endangering) the welfare of the Horse, the Horse
+71
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+will not be allowed to continue and will be designated 'Failed to Qualify – minor
+injury' (FTQ-MI).
+9.9 Shoes and feet: Horses may be ridden without shoes, but if shod they must be
+correctly shod and the shoes must be in a suitable condition for the Competition.
+Horses that are shod at the First (Pre-Ride) Inspection may cross the finish line
+without one or more shoes. However, if the Horse's feet or shoes hinder its ability
+to compete safely or appear to be causing the Horse pain, then the Horse will be
+designated as Failed to Qualify – irregular gait (FTQ-GA). Equi-boots and pads
+must be removed at the Horse Inspection if so requested by the Veterinary
+Commission.
+9.10 Specific additional procedures for the Final Horse Inspection:
+(a) The purpose of the Final Horse Inspection is to determine whether the
+Horse is still fit to continue after a normal rest period for another full Loop.
+(b) The assessments will be performed in the same manner, and applying the
+same criteria, as previous Horse Inspections during the course, save that
+there will be only one opportunity to qualify for presentation and the first
+trot-up of all Horses must be in front of a panel of three members of the
+Veterinary Commission accompanied by a member of the Ground Jury. A
+member of the panel may ask to see the Horse trot only one more time
+before voting takes place.
+10. Decorum during Horse Inspections:
+10.1 The Ground Jury, Stewards and Veterinary Commission members are responsible
+for enforcing the Horse Inspection decorum.
+10.2 The Horse Inspection areas should (as far as practicable) be quiet and without
+distraction out of respect for the Athletes and Horses under the stresses of intense
+competition and for the welfare of the Horses.
+10.3 Athletes and other persons assisting the Athletes during the Horse Inspection must
+respect the Horse Inspection decorum and not do (or fail to do) anything that
+might have a negative impact on the Horse Inspection or on any of the Horses in
+the Horse Inspection area.
+10.4 Horses must be presented for inspection in a bridle or (subject to FEI Tack &
+Equipment Requirements) head collar, but without any other tack, including
+saddle, boots, fly masks, Blinkers/visors and other tack. The tack must be
+removed in the recovery area before entering the Vetting Area. If there has been
+any topical application of any kind to the skin of the Horse, the Veterinary
+Commission will require that it be removed before the Horse may be presented for
+the Horse Inspection (see Article 824). If a Horse is presented at the Vetting Area
+with tack on (other than the bridle or head collar) or any topical application of any
+kind to the skin that has not been removed further to instructions of the Veterinary
+Commission then that Horse will fail the first presentation. The time into the
+Vetting Area will be cancelled and the Horse will be required to exit the Vetting
+Area and present for a second (final) presentation (except that there shall be no
+opportunity to re-present at the Final Horse Inspection).
+10.5 Horses presented for vetting must proceed, as instructed, directly from the Vetting
+Area entrance to the designated Veterinarian in the vet lane (as instructed by the
+Officials) showing constant forward motion. No action may be taken to hold back
+the Horse or to prevent the constant forward motion of the Horse. The Horse may
+72
+2026 ENDURANCE RULES ANNEX 5: HORSE INSPECTIONS, EXAMINATIONS,
+CONTROL OF MEDICATION
+not enter the vet lane until its heart rate has been assessed, and may not be
+trotted until so instructed by the relevant Veterinarian. In the event of breach of
+this provision, the Athlete will be given a fixed time penalty of five minutes and/or
+a Yellow Warning Card.
+10.6 No gamesmanship will be tolerated in terms of delaying or interfering with a Horse
+Inspection. From time to time, the FEI may provide a list of conduct that is
+specifically prohibited during Horse Inspections. Prohibited conduct in relation to
+the heart rate assessment includes kneeling in front of the Horse, pulling the
+Horse's head down, feeding the Horse, or in any way touching the Horse to attempt
+to influence the outcome of the heart rate assessment. Prohibited conduct in
+relation to the presentation of the Horse for the gait assessment includes unduly
+restricting the Horse's head movement and/or encouraging the Horse to trot (other
+than as permitted under Article 822.5.3). Repeated failure to present a Horse
+properly for the gait assessment may result in a Horse being designated as 'Failed
+to Qualify' as set out under paragraph 9.7(d) above. Whistling or any other
+behaviour within the Vetting Area to encourage a Horse to urinate is prohibited.
+10.7 Failure to comply with the Horse Inspection decorum, or the list of prohibited
+conduct that may be provided by the FEI, may (in addition to any specific penalties
+set out in this paragraph 10) result in Disqualification or other disciplinary action
+and/or such other measures as the Ground Jury and Stewards consider
+appropriate in the circumstances. The Ground Jury and Stewards have a wide
+margin of discretion to determine what steps are appropriate in relation to any
+misconduct during Horse Inspections.
+PART C: VETERINARY TREATMENT DURING COMPETITION
+See Chapter V (Veterinary Medication) of the FEI Veterinary Regulations for detail on
+permitted/prohibited veterinary treatments during Events.
+73
+2026 ENDURANCE RULES ANNEX 6: OFFICIALS REQUIRED FOR ENDURANCE EVENTS
+ANNEX 6: OFFICIALS REQUIRED FOR EVENTS
+The tables below set out the requirements for the appointment of Officials at Events, including (i) the minimum number of Officials required (and
+any additional Officials required based on the ratio of Officials to entries), (ii) the required qualification level of those Officials (i.e., 'minimum
+rate'), and (iii) which body is responsible for appointing those Officials. If FEI Headquarters is responsible for appointing any Official, it may
+consult as necessary with the FEI Endurance Technical Committee and/or the OC. For the purposes of this Annex 6, and save where stated
+otherwise, CEIOs must comply with the requirements applicable to CEIs of the same star level. For Shows with multiple star level of Events, the
+requirements of the highest star level must be adhered to as set out below.
+The OC must enlist the assistance of an appropriate number of other Officials, Stewards and Veterinarians, depending on the number of entries.
+Technical Delegates:
+Technical Delegate
+Minimum
+Number Appointment
+level
+WEG/World Championships 4 1 FEI Headquarters
+Regional Games/Continental
+Championships;
+Championships for Seniors, 4 1 FEI Headquarters
+Juniors/Young Riders, or Young
+Horses
+Subject to the Regional Championships
+Regional Championships N/A N/A
+Rules
+CEI 3* / CEI 2* 3 1 FEI Headquarters
+CEI 2* CIM 3 1 OC, subject to FEI approval
+CEI 1* 3 1 OC, subject to FEI approval
+74
+2026 ENDURANCE RULES ANNEX 6: OFFICIALS REQUIRED FOR ENDURANCE EVENTS
+Stewarding team:
+Stewarding Team
+Chief Steward Stewards
+Additional
+Minimum
+Number Appointment Minimum level Number member per Appointment
+level
+entries
+1 per
+1 up to 29
+WEG/World Championships 4 1 FEI Headquarters 2 additional 15
+entries
+entries
+Regional Games/Continental
+Championships; 1 per
+1 up to 29
+Championships for Seniors, 4 1 FEI Headquarters 2 additional 15
+entries
+Juniors/Young Riders, or entries
+Young Horses
+Subject to the 1 up to 39 1 per
+Regional Championships N/A N/A Regional National or above entries additional 20 OC, subject to
+Championships Rules entries FEI approval
+1 per
+1 up to 39
+CEI 3*/ CEI 2* 3 1 FEI Headquarters National or above entries additional 20
+entries
+1 per
+OC, subject to FEI 1 up to 39
+CEI 2* CIM 3 1 National or above additional 20
+approval entries
+entries
+1 per
+OC, subject to FEI 1 up to 39
+CEI 1* 3 1 National or above additional 20
+approval entries
+entries
+75
+2026 ENDURANCE RULES ANNEX 6: OFFICIALS REQUIRED FOR ENDURANCE EVENTS
+Ground Jury:
+Ground Jury
+President (see note 1) Foreign Judge (see note 1) Members
+Minimum Additional
+Minimum Minimum Minimum
+Number Appointment Number Appointment number / Appointment member
+level level level
+entries per entries
+1 per
+WEG/World FEI FEI 3 up to 59 FEI
+4 1 4 1 3 additional 30
+Championships Headquarters Headquarters entries Headquarters
+Entries
+Regional
+Games/
+Continental
+Championships; 1 per
+FEI FEI 2 up to 59 FEI
+Championships 4 1 4 1 3 additional 30
+Headquarters Headquarters entries Headquarters
+for Seniors, Entries
+Juniors/Young
+Riders, or
+Young Horses
+Subject to the 1 per
+Regional National or 1 up to 59 OC, subject to
+N/A N/A Regional Not required additional 30
+Championships Championships above entries FEI approval Entries
+Rules
+1 per
+CEI 3* / CEI 2* 3 1 FEI 3 1 FEI National or 1 up to 59 OC, subject to additional 30
+Headquarters Headquarters above entries FEI approval Entries
+1 per
+OC, subject to National or 1 up to 59 OC, subject to
+CEI 2* CIM 3 1 additional 30
+FEI approval above entries FEI approval
+Entries
+Not required
+1 per
+OC, subject to National or 1 up to 59 OC, subject to
+CEI 1* 3 1 additional 30
+FEI approval above entries FEI approval
+Entries
+(1) The FEI reserves the right to appoint the President of Ground Jury and the Foreign Judge at all CEIOs (regardless of star level).
+76
+2026 ENDURANCE RULES ANNEX 6: OFFICIALS REQUIRED FOR ENDURANCE EVENTS
+Veterinary Commission:
+Veterinary Commission
+President Foreign Veterinary Delegate Members
+Minimum Additional
+Minimum Minimum Minimum
+Number Appointment Number Appointment number / Appointment member
+level level level
+entries per entries
+WEG/World 1 per
+Championships (see EOV 4 1 FEI EOV 4 1 FEI EOV 3 3 up to 29 FEI additional
+note 2) Headquarters Headquarters entries Headquarters 15 entries
+Regional
+Games/Continental
+Championships;
+1 per
+Championships for FEI FEI 3 up to 29 FEI
+EOV 4 1 EOV 4 1 EOV 3 additional
+Seniors, Headquarters Headquarters entries Headquarters
+15 entries
+Juniors/Young
+Riders, or Young
+Horses (see note 2)
+Subject to the
+1 per
+Regional N/A N/A Regional Not required EOV 2 2 up to 39 OC, subject to additional
+Championships Championships entries FEI approval 20 entries
+Rules
+1 per
+FEI 1 up to 39 OC, subject to
+CEI 3* / CEI 2* EOV 3 1 EOV 3 1 FEI EOV 2 additional
+Headquarters entries FEI approval
+Headquarters 20 entries
+1 per
+OC, subject to 2 up to 39 OC, subject to
+CEI 2* CIM EOV 3 1 EOV 2 additional
+FEI approval entries FEI approval
+20 entries
+Not req uired 1 per
+OC, subject to 2 up to 39 OC, subject to
+CEI 1* EOV 3 1 EOV 2 additional
+FEI approval entries FEI approval
+20 entries
+(2) The FEI reserves the right to appoint the President of the Veterinary Commission and Foreign Veterinary Delegate at all CEIOs (regardless of star
+level). Where a Foreign Veterinary Delegate is not required, a Primary Veterinary Delegate must be appointed to fulfil the role of the Foreign Veterinary
+Delegate.
+77
+2026 ENDURANCE RULES ANNEX 6: OFFICIALS REQUIRED FOR ENDURANCE EVENTS
+Treating Veterinarians:
+Treating Veterinary Commission
+Veterinary Service Manager
+President (see note 4) Members
+Minimum Additional
+Minimum Minimum Minimum
+Number Appointment number / Appointment member Number Appointment
+level level level
+entries per
+entries
+1 per
+WEG/World FEI FEI OC, subject to
+EVT 4 1 EVT 3 1 up to 39 entries additional EVT 3 1
+C hampionships Headquarters Headquarters FEI approval
+20 entries
+Regional
+Games/Continental
+Championships;
+1 per
+Championships for FEI FEI
+EVT 4 1 EVT 3 1 up to 39 entries additional EVT 3 1 OC, subject to
+Seniors, Headquarters Headquarters
+20 entries FEI approval
+Juniors/Young
+Riders, or Young
+H orses
+Subject to the Subject to the
+Regional 1 per
+Regional OC, subject to Regional
+Championships N/A N/A PTV N/A additional N/A N/A
+Championships FEI approval Championships
+(see note 3) 50 entries
+Rules Rules
+1 per
+CEI 3* / CEI 2* FEI OC, subject to OC, subject to
+EVT 3 1 PTV 1 up to 59 entries additional EVT 2 1
+(see note 3) Headquarters FEI approval FEI approval
+30 entries
+1 per
+CEI 2* CIM (see OC, subject to OC, subject to OC, subject to
+EVT 3 1 PTV N/A additional EVT 2 1
+note 3) FEI approval FEI approval FEI approval
+50 entries
+1 per
+OC, subject to OC, subject to OC, subject to
+CEI 1* (see note 3) EVT 3 1 PTV N/A additional EVT 2 1
+FEI approval FEI approval FEI approval
+50 entries
+(3) Permitted Treating Veterinarians can be appointed as members of the Treating Veterinary Commission in regions/countries with an insufficient number
+of licensed Endurance Veterinary Treatment Officials, otherwise preference should be given to Level 2 Endurance Veterinary Treatment Officials.
+(4) The President or a Member of the Treating Veterinary Commission (if suitably qualified as per the requirement outlined in the table above, by being
+level EVT2 minimum) can be appointed as the VSM.
+78
+2026 ENDURANCE RULES ANNEX 7: EXAMINATION AFTER THIRD (OR
+SUBSEQUENT) FTQ-GA
+ANNEX 7: EXAMINATION AFTER THIRD (OR SUBSEQUENT) FTQ-GA
+For Horses that wish to participate in National rides, or Horses that have lost their CEI
+qualification:
+- After the 180 days MOOCP has been completed, the Horse may enter a CEN ride
+subject to the usual national veterinary controls.
+- Should this Horse wish to participate again in CEI rides, the Athlete’s (or the
+Trainer’s) National Federation must notify the FEI Endurance Department of the
+Horse's next Competition at least four weeks prior to the Horse's next Competition,
+and the below examination procedure will apply.
+Further to the table at Article 839.2.1, after a Horse Fails to Qualify for irregular gait (FTQGA) for a third (or subsequent) time in a rolling year, the following procedure must be
+applied before the Horse may return to Competition to ensure that the Horse has properly
+recovered before competing again:
+1. Notification:
+1.1 The Horse must be flagged in the FEI database as having Failed to Qualify
+for irregular gait three (or more) times in a rolling year.
+1.2 If an Athlete intends to ride a Horse that has had three (or more) Failures
+to Qualify for irregular gait in a rolling year, that Athlete (or the Trainer)
+must notify the FEI Endurance Department of the Horse's next Competition
+at least four weeks prior to the Horse's next Competition.
+1.3 The FEI Endurance Department will inform the FEI Veterinary Department
+of the Horse's status and ask for it to arrange for the Horse to be examined
+in accordance with this Annex 7.
+1.4 The FEI Veterinary Department will inform the President of the Ground Jury,
+the Foreign Veterinary Delegate and Veterinary Commission of the Horse's
+status and the required additional examination.
+2. Examination procedure:
+2.1 Before the First (Pre-Ride) Inspection, a panel of three Veterinarians
+(including the President of the Veterinary Commission, Foreign Veterinary
+Delegate, and a member of the Veterinary Commission) must carry out a
+detailed examination to determine if the Horse is fit to compete.
+In CEI1* events the examination procedure must be done by the President
+of the Vet Commission and two members of the vet commission.
+Examination must be done at CEI events.
+2.2 The examination must consist of, but is not limited to:
+(a) Walk and trot on a straight line;
+(b) Walk and trot both ways in a circle; and
+(c) Palpation of relevant tissues.
+2.3 The panel of Veterinarians must notify the Ground Jury of the results of the
+examination (in accordance with the FEI Veterinary Regulations).
+79
+2026 ENDURANCE RULES ANNEX 7: EXAMINATION AFTER THIRD (OR
+SUBSEQUENT) FTQ-GA
+2.4 If the Horse passes the Annex 7 Examination, and with the approval of the
+Ground Jury, the Horse can continue to the First (Pre-Ride) Inspection and
+participate in the Event. If the Horse successfully completes the ride, the
+block will be removed from the Horse’s profile when the results of the Event
+are validated.
+2.5 During the Competition, the Veterinary Commission must closely monitor
+the Horse.
+80
+2026 ENDURANCE RULES ANNEX 8: DIAGRAMS
+ANNEX 8: DIAGRAMS
+Illustrations of permitted/prohibited Blinkers and cheek pieces can be found in the FEI
+Tack & Equipment Requirements document.
+The following provides illustrations of the correct way to trot the Horse as described in
+Annex 5, point 9.7 (a).
+81
+2026 ENDURANCE RULES ANNEX 9: THE ENDURANCE AWARDS
+ANNEX 9: THE ENDURANCE AWARDS
+The Combinations Award will be awarded as follows to Combinations who successfully
+complete Competitions:
+a) Gold status for eight successful completions;
+b) Silver status for six successful completions;
+c) Bronze status for four successful completions.
+The Consecutive Completions Award will be awarded as follows to Athletes who
+successfully consecutively complete Competitions:
+a) Gold status for fifteen consecutive successful completions;
+b) Silver status for ten consecutive successful completions;
+c) Bronze status for five consecutive successful completions.
+The Best Condition Award will be awarded as follows to Athletes and Horses who receive
+multiple Best Condition awards:
+a) Gold status for six Best Condition awards received;
+b) Silver status for four Best Condition awards received;
+c) Bronze status for two Best Condition awards received.
+Prize Money (if applicable) will be apportioned as follows:
+o Gold Combinations Award: 1/3
+o Gold Consecutive Completions Award: 1/3
+o Gold Best Condition Award: 1/3
+82
