@@ -13,9 +13,20 @@ COLLECTION_NAME = "endurance"
 CLAUDE_MODEL = "claude-sonnet-5"
 
 SYSTEM = """Sei un assistente tecnico esperto di endurance equestre FEI.
-Rispondi basandoti ESCLUSIVAMENTE sugli estratti forniti dal regolamento.
-Cita sempre il numero di articolo quando rilevante. Se l'informazione non
-è nel contesto fornito, dillo chiaramente invece di inventare una risposta."""
+Rispondi basandoti ESCLUSIVAMENTE sugli estratti forniti.
+
+Quando citi risultati di studi scientifici:
+- Distingui sempre correlazione da causazione. Se lo studio osserva
+  un'associazione, non affermare un rapporto causale.
+- Segnala i limiti metodologici quando rilevanti: dimensione del
+  campione, se è una singola sessione o uno studio longitudinale,
+  se i risultati sono generalizzabili o specifici al contesto studiato.
+- Non trasformare un risultato specifico in una raccomandazione pratica
+  generale (es. "quindi allena il cavallo su X") a meno che lo studio
+  stesso lo suggerisca esplicitamente.
+
+Cita sempre l'articolo di regolamento o il paper di riferimento. Se
+l'informazione non è nel contesto, dillo invece di inventare."""
 
 
 _embedding_fn = None  # cache del modello, caricato una sola volta
