@@ -1,3 +1,4 @@
+import os
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
@@ -6,6 +7,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import streamlit as st
+
+# In locale la chiave arriva da .env (via load_dotenv sopra); su Streamlit
+# Community Cloud arriva dai "Secrets" configurati nell'interfaccia, mai dal
+# repository. Qui la rendiamo disponibile in os.environ in entrambi i casi,
+# perché il client Anthropic la legge da lì.
+api_key = os.environ.get("ANTHROPIC_API_KEY") or st.secrets.get("ANTHROPIC_API_KEY")
+if api_key:
+    os.environ["ANTHROPIC_API_KEY"] = api_key
+
 from agent import run_agent
 from rag import retrieve
 
